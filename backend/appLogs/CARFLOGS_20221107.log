@@ -1,0 +1,123 @@
+INFO 2022-11-07T07:55:17.651 server.js -  Server listening to port: 3000
+FATAL 2022-11-07T07:55:17.655 10.0.11.65 - kpusers - Connection Failed. Error: connect ETIMEDOUT
+INFO 2022-11-07T07:55:18.293 10.4.9.186 - branch_request - Branch Connected.
+INFO 2022-11-07T08:06:12.904 google signin authenticate /auth/google/signin
+INFO 2022-11-07T08:06:12.905 google signin authenticate /auth/google/signin - generateUrl : https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&include_granted_scopes=true&prompt=consent&response_type=code&client_id=200170048978-bieukaht3l5tifus8m483t7mnq44bp0t.apps.googleusercontent.com&redirect_uri=http%3A%2F%2F127.0.0.1%3A3000%2Fauth%2Fgoogle%2Fcallback
+INFO 2022-11-07T08:06:15.431 google authenticate callback /auth/google/callback
+INFO 2022-11-07T08:06:15.724 google authenticate callback  - /auth/google/callback getToken: ya29.a0AeTM1ic_QEsx0k-EmgrjuOGceclNv6_eJM7WaLQhYtYE0ZbIka6Tnua4YTXvnme4VsY4xDCad3FLAEHnyQtVVaLP22m4ichnYppp9Psxww1sr4f8ny5d6QB_UDUbF3HwJ7PrU2BW-Md2fJbNVa-uzIT3_qRjaCgYKAW4SARASFQHWtWOmN-IYMF9uuM78N7t9MbkKoA0163
+INFO 2022-11-07T08:06:15.964 google authenticate callback  - /auth/google/callback getUserInfo: {"id":"104263715304225609924","email":"jonalyn.mobilla@mlhuillier.com","verified_email":true,"name":"Jonalyn Mobilla","given_name":"Jonalyn","family_name":"Mobilla","picture":"https://lh3.googleusercontent.com/a/ALm5wu0vN0i1b1SzMnZVgZPvGpP6q3LkwGepTBkrowtmTg=s96-c","locale":"en","hd":"mlhuillier.com"}
+INFO 2022-11-07T08:06:15.977 redirect after callback  -  /auth/google/success
+INFO 2022-11-07T08:06:51.524 google authenticate callback /auth/google/callback
+INFO 2022-11-07T08:06:51.797 google authenticate callback  - /auth/google/callback getToken: ya29.a0AeTM1ie--qZMpCmFse1eKZz9ReNxFR-2wFpHJRGYmkfT41XAaTklSpD7bk1lggAR1Yw0PHq1_Swn2oaWg61e0caH8vyO8pu31hk03E9hWLdzlh0M3PMAdzyGmR6WCk70a9ksLzbBN3o0oKuDlPsjYOdtzPxhaCgYKAY4SARASFQHWtWOmtAvGRiTKi6srb03HytXxLg0163
+INFO 2022-11-07T08:06:52.021 google authenticate callback  - /auth/google/callback getUserInfo: {"id":"104263715304225609924","email":"jonalyn.mobilla@mlhuillier.com","verified_email":true,"name":"Jonalyn Mobilla","given_name":"Jonalyn","family_name":"Mobilla","picture":"https://lh3.googleusercontent.com/a/ALm5wu0vN0i1b1SzMnZVgZPvGpP6q3LkwGepTBkrowtmTg=s96-c","locale":"en","hd":"mlhuillier.com"}
+INFO 2022-11-07T08:06:52.032 redirect after callback  -  /auth/google/success
+INFO 2022-11-07T08:08:07.637 server.js -  Server listening to port: 3000
+INFO 2022-11-07T08:08:07.803 10.0.11.65 - kpusers - Kp Connected.
+INFO 2022-11-07T08:08:08.105 10.4.9.186 - branch_request - Branch Connected.
+INFO 2022-11-07T08:09:11.919 server.js -  Server listening to port: 3000
+INFO 2022-11-07T08:09:11.962 10.0.11.65 - kpusers - Kp Connected.
+INFO 2022-11-07T08:09:12.373 10.4.9.186 - branch_request - Branch Connected.
+INFO 2022-11-07T08:09:21.279 google signin authenticate /auth/google/signin
+INFO 2022-11-07T08:09:21.281 google signin authenticate /auth/google/signin - generateUrl : https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&include_granted_scopes=true&prompt=consent&response_type=code&client_id=200170048978-bieukaht3l5tifus8m483t7mnq44bp0t.apps.googleusercontent.com&redirect_uri=http%3A%2F%2F127.0.0.1%3A3000%2Fauth%2Fgoogle%2Fcallback
+INFO 2022-11-07T08:09:23.490 google authenticate callback /auth/google/callback
+INFO 2022-11-07T08:09:23.768 google authenticate callback  - /auth/google/callback getToken: ya29.a0AeTM1idemKKz2fDpk6MTwbxX9ODeuYXRoIPbUcJAZ01V3DWnzwPhyJvTCi53hang-hnHCLEkyHr8sL3ntzr1Jucs_lUB08I3SEUTzKnD8uTwP_HMbqh2MFeq8dkCGEvRjlSIhc3Oo17aRMusODDQCdt1qwjuaCgYKAdgSARASFQHWtWOm008vQxkUiiU5Q6xSioBYRw0163
+INFO 2022-11-07T08:09:23.980 google authenticate callback  - /auth/google/callback getUserInfo: {"id":"104263715304225609924","email":"jonalyn.mobilla@mlhuillier.com","verified_email":true,"name":"Jonalyn Mobilla","given_name":"Jonalyn","family_name":"Mobilla","picture":"https://lh3.googleusercontent.com/a/ALm5wu0vN0i1b1SzMnZVgZPvGpP6q3LkwGepTBkrowtmTg=s96-c","locale":"en","hd":"mlhuillier.com"}
+INFO 2022-11-07T08:09:23.995 redirect after callback  -  /auth/google/success
+INFO 2022-11-07T08:09:25.236 USERS CONTROLLER - getUserByEmail 200: SUCCESSFULLY RETRIEVED DATA
+INFO 2022-11-07T08:09:29.097 requestController - getMaxId -  row: 1
+INFO 2022-11-07T08:09:35.463 requestController - getRfMaxId -  row: 1
+INFO 2022-11-07T08:09:41.045 getAllRequestsCash Rows Length : 4
+INFO 2022-11-07T08:09:56.654 getAllRequestsCash Rows Length : 4
+INFO 2022-11-07T08:21:46.618 getAllRequestsCash Rows Length : 4
+INFO 2022-11-07T08:21:48.854 getAllRequestsCash Rows Length : 1
+INFO 2022-11-07T08:21:49.353 getAllRequestsCash Rows Length : 1
+INFO 2022-11-07T08:21:49.358 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T08:21:55.953 getAllRequestsCash Rows Length : 1
+INFO 2022-11-07T08:21:55.969 getAllRequestsCash Rows Length : 1
+INFO 2022-11-07T08:21:55.971 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T08:22:02.145 getAllRequestsCash Rows Length : 1
+INFO 2022-11-07T08:22:02.169 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T08:22:02.170 getAllRequestsCash Rows Length : 1
+INFO 2022-11-07T08:28:36.032 LOG OUT  -  Logging out...
+INFO 2022-11-07T08:28:36.273 LOG OUT  -  Requesting - headers: Mon, 07 Nov 2022 00:29:18 GMT, statusCode: 400
+INFO 2022-11-07T08:28:36.274 LOG OUT  -  postReq on data: {
+  "error": "invalid_token"
+}, SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+INFO 2022-11-07T08:28:36.274 LOG OUT  -  postReq on data: {
+  "error": "invalid_token"
+}, statusCode: 400
+INFO 2022-11-07T08:29:14.547 google signin authenticate /auth/google/signin
+INFO 2022-11-07T08:29:14.548 google signin authenticate /auth/google/signin - generateUrl : https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&include_granted_scopes=true&prompt=consent&response_type=code&client_id=200170048978-bieukaht3l5tifus8m483t7mnq44bp0t.apps.googleusercontent.com&redirect_uri=http%3A%2F%2F127.0.0.1%3A3000%2Fauth%2Fgoogle%2Fcallback
+INFO 2022-11-07T08:29:17.147 google authenticate callback /auth/google/callback
+INFO 2022-11-07T08:29:17.395 google authenticate callback  - /auth/google/callback getToken: ya29.a0AeTM1idfONHm4CtaXjfkR1irK2RUgCV5vX8hpQ6JGN-KtDoWSSIPlI0rDSMfKpw0l1aHOWbxCf41XB-NMeDHfPpFORfXtmzILFhBAz1uC1rkXkhXDtiLBNyMXWqgR-mBKAvxOgz54iRQV4Me7BmBZ3s2klskaCgYKAfISARASFQHWtWOms-DNa5jYgWMOK19fezkmgA0163
+INFO 2022-11-07T08:29:17.594 google authenticate callback  - /auth/google/callback getUserInfo: {"id":"104755129923392878822","email":"jonalyn.mobilla@gmail.com","verified_email":true,"name":"Jonalyn Mobilla","given_name":"Jonalyn","family_name":"Mobilla","picture":"https://lh3.googleusercontent.com/a/ALm5wu1lHx2qFiX9Ik6ZIqHEBEia_ic1CvoF8gFPfIyD=s96-c","locale":"en"}
+INFO 2022-11-07T08:29:17.602 redirect after callback  -  /auth/google/success
+INFO 2022-11-07T08:29:18.827 USERS CONTROLLER - getUserByEmail 200: SUCCESSFULLY RETRIEVED DATA
+INFO 2022-11-07T08:29:25.354 requestController - getRfMaxId -  row: 1
+INFO 2022-11-07T08:29:30.562 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T08:29:32.100 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T08:29:32.100 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T08:29:32.105 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T08:29:35.196 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T08:29:49.857 CASH ADVANCE APPROVED  -  approved CA-221021-000018 ass_vpo_approver ram_status jonalyn.mobilla@student.passerellesnumeriques.org Lorraine Mob Taylor Swift gfghfhgh ram_date ram_remarks
+INFO 2022-11-07T08:29:49.875 ram_approver -  Lorraine Mob approving...
+INFO 2022-11-07T08:29:50.119 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2022-11-07T08:29:50.120 CASH ADVANCE APPROVED -  Request CA-221021-000018 has been approved by Lorraine Mob -  Request has been delivered to jonalyn.mobilla@student.passerellesnumeriques.org for approval 
+INFO 2022-11-07T08:29:59.234 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T08:30:01.310 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T08:30:01.311 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T08:30:01.317 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T08:30:03.218 requestController - getMaxId -  row: 1
+INFO 2022-11-07T08:30:06.357 requestController - getRfMaxId -  row: 1
+INFO 2022-11-07T11:31:07.915 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T11:31:13.400 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T11:31:13.405 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T11:31:13.414 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T11:31:14.647 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T11:31:21.629 LOG OUT  -  Logging out...
+INFO 2022-11-07T11:31:21.861 LOG OUT  -  Requesting - headers: Mon, 07 Nov 2022 03:32:04 GMT, statusCode: 400
+INFO 2022-11-07T11:31:21.862 LOG OUT  -  postReq on data: {
+  "error": "invalid_token"
+}, SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+INFO 2022-11-07T11:31:21.862 LOG OUT  -  postReq on data: {
+  "error": "invalid_token"
+}, statusCode: 400
+INFO 2022-11-07T11:31:28.701 google signin authenticate /auth/google/signin
+INFO 2022-11-07T11:31:28.701 google signin authenticate /auth/google/signin - generateUrl : https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&include_granted_scopes=true&prompt=consent&response_type=code&client_id=200170048978-bieukaht3l5tifus8m483t7mnq44bp0t.apps.googleusercontent.com&redirect_uri=http%3A%2F%2F127.0.0.1%3A3000%2Fauth%2Fgoogle%2Fcallback
+INFO 2022-11-07T11:31:36.803 google authenticate callback /auth/google/callback
+INFO 2022-11-07T11:31:37.059 google authenticate callback  - /auth/google/callback getToken: ya29.a0AeTM1ifKJ1_ieMJ9QtvHptSyTm6remjZ3py0_UMmAybH6PNxOSjUuR7TbrNlZuUBc8t5wmlPVSDgXxmtTwsqPEDIYYPv9oml3Dimmzj3X0Tzv7VrJMT5jy0lXo82XlwvwDgQ8sQm9O-56IN3hBTICGOvx3ALaCgYKAfISARASFQHWtWOmOlqZXu12uv0wi4zMs0QOJw0163
+INFO 2022-11-07T11:31:37.284 google authenticate callback  - /auth/google/callback getUserInfo: {"id":"104263715304225609924","email":"jonalyn.mobilla@mlhuillier.com","verified_email":true,"name":"Jonalyn Mobilla","given_name":"Jonalyn","family_name":"Mobilla","picture":"https://lh3.googleusercontent.com/a/ALm5wu0vN0i1b1SzMnZVgZPvGpP6q3LkwGepTBkrowtmTg=s96-c","locale":"en","hd":"mlhuillier.com"}
+INFO 2022-11-07T11:31:37.306 redirect after callback  -  /auth/google/success
+INFO 2022-11-07T11:31:38.369 USERS CONTROLLER - getUserByEmail 200: SUCCESSFULLY RETRIEVED DATA
+INFO 2022-11-07T11:31:50.678 getAllRequestsCash Rows Length : 4
+INFO 2022-11-07T11:32:12.394 getAllRequestsCash Rows Length : 4
+INFO 2022-11-07T11:32:30.767 getAllRequestsCash Rows Length : 1
+INFO 2022-11-07T11:32:30.772 getAllRequestsCash Rows Length : 1
+INFO 2022-11-07T11:32:30.775 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T11:32:38.147 getAllRequestsCash Rows Length : 4
+INFO 2022-11-07T11:33:35.688 getAllRequestsCash Rows Length : 4
+INFO 2022-11-07T11:33:42.107 requestController - getMaxId -  row: 1
+INFO 2022-11-07T11:33:53.207 LOG OUT  -  Logging out...
+INFO 2022-11-07T11:33:53.390 LOG OUT  -  Requesting - headers: Mon, 07 Nov 2022 03:34:35 GMT, statusCode: 400
+INFO 2022-11-07T11:33:53.390 LOG OUT  -  postReq on data: {
+  "error": "invalid_token"
+}, SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+INFO 2022-11-07T11:33:53.390 LOG OUT  -  postReq on data: {
+  "error": "invalid_token"
+}, statusCode: 400
+INFO 2022-11-07T11:33:56.803 google signin authenticate /auth/google/signin
+INFO 2022-11-07T11:33:56.804 google signin authenticate /auth/google/signin - generateUrl : https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&include_granted_scopes=true&prompt=consent&response_type=code&client_id=200170048978-bieukaht3l5tifus8m483t7mnq44bp0t.apps.googleusercontent.com&redirect_uri=http%3A%2F%2F127.0.0.1%3A3000%2Fauth%2Fgoogle%2Fcallback
+INFO 2022-11-07T11:33:59.466 google authenticate callback /auth/google/callback
+INFO 2022-11-07T11:33:59.740 google authenticate callback  - /auth/google/callback getToken: ya29.a0AeTM1idZlPyyaKS6EvhC7WLm-HU919aEvdIa4SgflktCp5EeVhHkU-OlqmHx-brNFzlufodriN6aa3R6ODhVliUC2qp39S_NygKIWhQlNGJsMpdrlHbcmfTTDwWca_YcxTcrAXLOyw2W1QrABu3FGgfiI2W-aCgYKAVcSARASFQHWtWOmBcvop8InIIvcVIVjEJSrUw0163
+INFO 2022-11-07T11:33:59.951 google authenticate callback  - /auth/google/callback getUserInfo: {"id":"104755129923392878822","email":"jonalyn.mobilla@gmail.com","verified_email":true,"name":"Jonalyn Mobilla","given_name":"Jonalyn","family_name":"Mobilla","picture":"https://lh3.googleusercontent.com/a/ALm5wu1lHx2qFiX9Ik6ZIqHEBEia_ic1CvoF8gFPfIyD=s96-c","locale":"en"}
+INFO 2022-11-07T11:33:59.969 redirect after callback  -  /auth/google/success
+INFO 2022-11-07T11:34:00.994 USERS CONTROLLER - getUserByEmail 200: SUCCESSFULLY RETRIEVED DATA
+INFO 2022-11-07T11:34:03.412 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T11:34:06.023 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T11:34:06.027 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T11:34:06.030 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T11:34:07.948 requestController - getMaxId -  row: 1
+INFO 2022-11-07T13:14:14.960 getAllRequestsCash - No data found Rows Length : 0
+INFO 2022-11-07T13:14:17.969 requestController - getMaxId -  row: 1
+INFO 2022-11-07T13:14:20.625 requestController - getRfMaxId -  row: 1
+INFO 2022-11-07T14:05:12.171 requestController - getRfMaxId -  row: 1

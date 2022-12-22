@@ -1,0 +1,21 @@
+INFO 2022-11-26T09:41:54.407 server.js -  Server listening to port: 3000
+FATAL 2022-11-26T09:41:54.415 10.0.11.65 - kpusers - Connection Failed. Error: connect ETIMEDOUT
+INFO 2022-11-26T09:41:55.211 10.4.9.186 - branch_request - Branch Connected.
+INFO 2022-11-26T09:43:39.658 server.js -  Server listening to port: 3000
+INFO 2022-11-26T09:43:39.752 10.0.11.65 - kpusers - Kp Connected.
+INFO 2022-11-26T09:43:40.117 10.4.9.186 - branch_request - Branch Connected.
+INFO 2022-11-26T09:45:10.962 server.js -  Server listening to port: 3000
+INFO 2022-11-26T09:45:10.995 10.0.11.65 - kpusers - Kp Connected.
+INFO 2022-11-26T09:45:11.404 10.4.9.186 - branch_request - Branch Connected.
+INFO 2022-11-26T09:45:46.769 server.js -  Server listening to port: 3000
+INFO 2022-11-26T09:45:46.801 10.0.11.65 - kpusers - Kp Connected.
+INFO 2022-11-26T09:45:47.227 10.4.9.186 - branch_request - Branch Connected.
+INFO 2022-11-26T09:46:23.345 server.js -  Server listening to port: 3000
+INFO 2022-11-26T09:46:23.395 10.0.11.65 - kpusers - Kp Connected.
+INFO 2022-11-26T09:46:23.802 10.4.9.186 - branch_request - Branch Connected.
+INFO 2022-11-26T09:48:00.108 server.js -  Server listening to port: 3000
+INFO 2022-11-26T09:48:00.142 10.0.11.65 - kpusers - Kp Connected.
+INFO 2022-11-26T09:48:00.550 10.4.9.186 - branch_request - Branch Connected.
+INFO 2022-11-26T09:49:45.895 server.js -  Server listening to port: 3000
+INFO 2022-11-26T09:49:45.931 10.0.11.65 - kpusers - Kp Connected.
+INFO 2022-11-26T09:49:46.336 10.4.9.186 - branch_request - Branch Connected.
