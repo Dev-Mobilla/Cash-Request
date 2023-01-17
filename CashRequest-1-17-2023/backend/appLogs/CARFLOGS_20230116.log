@@ -1,0 +1,2 @@
+INFO 2023-01-16T08:02:06.205 server.js -  Server listening to port: 3000
+FATAL 2023-01-16T08:02:06.211 10.4.9.186 - branch_request - Branch Connection Failed. Error: connect ETIMEDOUT
