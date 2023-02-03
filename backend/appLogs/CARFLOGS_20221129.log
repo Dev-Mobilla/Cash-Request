@@ -1,3 +1,0 @@
-INFO 2022-11-29T11:18:02.474 server.js -  Server listening to port: 3000
-FATAL 2022-11-29T11:18:02.480 10.0.11.65 - kpusers - Connection Failed. Error: connect ETIMEDOUT
-INFO 2022-11-29T11:18:03.105 10.4.9.186 - branch_request - Branch Connected.
