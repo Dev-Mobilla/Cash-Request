@@ -1,0 +1,306 @@
+<div style="margin:-9px 0px 0px -9px">
+    <div style="padding-left: 15px;padding-top: 7px;padding-bottom: 10px;background-color: #cc0404;width: 65%;">
+        <h4
+            style="margin: auto;font-size: 15px;color: white;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+            Revolving Fund Liquidation</h4>
+    </div>
+    <img src="https://phisoblog.files.wordpress.com/2015/11/mlhuillier-logo.jpg" alt="ml_logo"
+        style="margin-top:-40px;padding-right: 0;padding-left: 0px;width: 35%;height: 60px;float:right">
+</div>
+<!-- okay na bawbaw -->
+<!-- second--col -->
+<br>
+<br>
+<table style="border-collapse: collapse; width: 95%;margin:auto;">
+    <tr>
+        <td style="width:20%;font-weight: 500;text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">Position:</td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.type}}</td>
+        <td style="width:20%;font-weight: 500; text-align: left;padding: 8px 8px 8px 20px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">Control No:</td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd;text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.controlNo}}</td>
+    </tr>
+
+    <tr>
+        <td style="width:20%;font-weight: 500;text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">Date: </td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.rf_date}}</td>
+        <td style="width:20%;font-weight: 500;text-align: left;padding: 8px 8px 8px 20px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">Period:</td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.period}}</td>
+    </tr>
+    <tr>
+        <td style="width:20%;font-weight: 500;text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">Requestor:</td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.requestor}}</td>
+        <td style="width:20%;font-weight: 500; text-align: left;padding: 8px 8px 8px 20px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">RF Allowance:</td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.allowance}}</td>
+    </tr>
+    <tr>
+        <td style="width:20%;font-weight: 500;text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">Base Branch:</td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd;text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.baseBranch}}</td>
+        <td style="width:20%;font-weight: 500; text-align: left;padding: 8px 8px 8px 20px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">Pending RF:</td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.pendingRf}}</td>
+    </tr>
+    <tr>
+        <td style="width:20%;font-weight: 500;text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">Region:</td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.region}}</td>
+        {{!-- <td style="width:20%;font-weight: 500; text-align: left;padding: 8px 8px 8px 20px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;;">Total Expenses:</td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.totalExpenses}}</td> --}}
+    </tr>
+    <tr>
+        <td style="width:20%;font-weight: 500;text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">Email Address:</td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.email}}</td>
+        <td style="width:20%;font-weight: 500;text-align: left;padding: 8px 8px 8px 20px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">Cash On Hand:
+        </td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.cashOnHand}}</td>
+    </tr>
+</table>
+<br>
+<br>
+<table style="border-collapse: collapse; width: 95%;margin:auto;">
+    <tr>
+        <td style="width:20%;font-weight: 500;text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">Transportation:</td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.transportation}}</td>
+        <td style="margin-left: 5px;width:20%;font-weight: 500; text-align: left;padding: 8px 8px 8px 20px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">Purpose:</td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd;text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.purpose}}</td>
+    </tr>
+    <tr>
+        <td style="width:20%;font-weight: 500;text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">Office Supplies: </td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.officeSupplies}}</td>
+    </tr>
+    <tr>
+        <td style="width:20%;font-weight: 500;text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">Meals:</td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.meals}}</td>
+    </tr>
+    <tr>
+        <td style="width:20%;font-weight: 500;text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">Others: </td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.others}}</td>
+    </tr>
+    <td style="width:20%;font-weight: 500; text-align: left;padding: 8px 8px 8px 20px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;;">Total Expenses:</td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.totalExpenses}}</td>
+    {{!-- <tr>
+        <td style="width:20%;font-weight: 500;text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">Total Expenses:</td>
+        <td style="width:30%;font-weight: 400;border-top:none;border-left:none;border-right:none; border-bottom: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">{{data.total}}</td>
+    </tr> --}}
+</table>
+<br><br><br>
+{{#if isNotVpo}}
+<p style="font-size: 12px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;width: 93%; text-align: center; 
+            border-bottom: 1px solid rgba(0, 0, 0, 0.842); line-height: 0.1em;margin:auto">
+    <span style="background:#fff; padding:0 10px;">APPROVERS SECTION</span>
+</p>
+<br>
+<table style="border-collapse: collapse; width: 95%;margin:auto;">
+    <thead>
+        <tr style="margin: auto;">
+            {{#if data.am_fullname}}
+            <th style="text-transform:uppercase;border: 1px solid #dddddd;font-weight: 500;text-align: center;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">
+                {{#if data.am_status}}
+                <p style="text-transform:uppercase;">{{data.am_status}} | {{data.am_date}}</p>
+                {{/if}}
+                {{data.am_fullname}}
+            </th>
+            {{/if}}
+            {{#if data.rm_fullname}}
+            <th style="text-transform:uppercase;border: 1px solid #dddddd;font-weight: 500;text-align: center;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">
+                {{#if data.rm_status}}
+                <p style="text-transform:uppercase;">{{data.rm_status}} | {{data.rm_date}}</p>
+                {{/if}}
+            {{data.rm_fullname}}
+            </th>
+            {{/if}}
+            {{#if data.ram_fullname}}
+            <th style="text-transform:uppercase;border: 1px solid #dddddd;font-weight: 500;text-align: center;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">
+                {{#if data.ram_status}}
+                <p style="text-transform:uppercase;">{{data.ram_status}} | {{data.ram_date}}</p>
+                {{/if}}
+            {{data.ram_fullname}}
+            </th>
+            {{/if}}
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            {{#if data.am_fullname}}
+            <td style="font-weight: 400;border: 1px solid #dddddd; text-align: center;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">
+            Area Manager
+            <p style="margin: 0px;">({{data.region}})</p>
+            </td>
+            {{/if}}
+            {{#if data.rm_fullname}}
+            <td style="font-weight: 400;border: 1px solid #dddddd; text-align: center;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;"> 
+            Regional Manager
+            <p style="margin: 0px;">({{data.region}})</p>
+            </td>
+            {{/if}}
+            {{#if data.ram_fullname}}
+            <td style="font-weight: 400;border: 1px solid #dddddd; text-align: center;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">
+            Regional Area Manager
+            <p style="margin: 0px;">({{data.region}})</p>
+            </td>
+            {{/if}}
+        </tr>
+    </tbody>
+
+</table>
+<br>
+<table style="border-collapse: collapse; width: 95%;margin:auto;">
+    <thead>
+        <tr style="margin: auto;">
+            {{#if data.ass_fullname}}
+            <th style="text-transform:uppercase;border: 1px solid #dddddd;font-weight: 500;text-align: center;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">
+                {{#if data.ass_status}}
+                <p style="text-transform:uppercase;">{{data.ass_status}} | {{data.ass_date}}</p>
+                {{/if}}
+            {{data.ass_fullname}}
+            </th>
+            {{/if}}
+            {{#if data.vpo_fullname}}
+            <th style="text-transform:uppercase;border: 1px solid #dddddd;font-weight: 500;text-align: center;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9px;">
+                {{#if data.vpo_status}}
+                <p style="text-transform:uppercase;">{{data.vpo_status}} | {{data.vpo_date}}</p>
+                {{/if}}
+            {{data.vpo_fullname}}
+            </th>
+            {{/if}}
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            {{#if data.ass_fullname}}
+            <td style="border: 1px solid #dddddd;font-weight: 400; text-align: center;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">
+            Assistant to the COO | VPO
+            <p style="margin: 0px;">({{data.region}})</p>
+            </td>
+            {{/if}}
+            {{#if data.vpo_fullname}}
+            <td style="border: 1px solid #dddddd;font-weight: 400; text-align: center;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 8px;">
+            COO | VPO
+            <p style="margin: 0px;">({{data.region}})</p>
+            </td>
+            {{/if}}
+        </tr>
+    </tbody>
+</table>
+{{/if}}
+{{!-- <div>
+    {{#if isNotVpo}}
+    <p style="font-size: 12px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;width: 93%; text-align: center; 
+            border-bottom: 1px solid rgba(0, 0, 0, 0.842); line-height: 0.1em;margin:auto">
+        <span style="background:#fff; padding:0 10px;">APPROVERS' SECTION</span>
+    </p>
+    <br>
+    <br>
+    <table style="border-collapse: collapse; width: 90%;margin:auto">
+        <tr style="background-color: gainsboro">
+            <th
+                style="font-size: 9px;border: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
+                Approver's Name</th>
+            <th
+                style="font-size: 9px;border: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
+                Date & Time</th>
+            <th
+                style="font-size: 9px;border: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
+                Status</th>
+        </tr>
+        {{#if data.am_fullname}}
+        <tr>
+            <td style="text-transform:uppercase;border: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 8px;">{{data.am_fullname}}</td>
+            <td style="border: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 8px;">{{data.am_date}}</td>
+            <td style="text-transform:uppercase;border: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 8px;">{{data.am_status}}</td>
+        </tr>
+        {{/if}}
+        {{#if data.rm_fullname}}
+        <tr>
+            <td style="text-transform:uppercase;border: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 8px;">{{data.rm_fullname}}</td>
+            <td style="border: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 8px;">{{data.rm_date}}</td>
+            <td style="text-transform:uppercase;border: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 8px;">{{data.rm_status}}</td>
+        </tr>
+        {{/if}}
+        {{#if data.ram_fullname}}
+        <tr>
+            <td style="text-transform:uppercase;border: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 8px;">{{data.ram_fullname}}</td>
+            <td style="border: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 8px;">{{data.ram_date}}</td>
+            <td style="text-transform:uppercase;border: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 8px;">{{data.ram_status}}</td>
+        </tr>
+        {{/if}}
+        {{#if data.ass_fullname}}
+        <tr>
+            <td style="text-transform:uppercase;border: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 8px;">{{data.ass_fullname}}</td>
+            <td style="border: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 8px;">{{data.ass_date}}</td>
+            <td style="text-transform:uppercase;border: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 8px;">{{data.ass_status}}</td>
+        </tr>
+        {{/if}}
+        {{#if data.vpo_fullname}}
+        <tr>
+            <td style="text-transform:uppercase;border: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 8px;">{{data.vpo_fullname}}</td>
+            <td style="border: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 8px;">{{data.vpo_date}}</td>
+            <td style="text-transform:uppercase;border: 1px solid #dddddd; text-align: left;padding: 8px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 8px;">{{data.vpo_status}}</td>
+        </tr>
+        {{/if}}
+    </table>
+    {{/if}}
+</div> --}}
+</div>
+<div id="pageFooter" style="text-align: center;">
+    <span style="font-size:8px;color: red;font-style:italic;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">**This document is computer generated and does not require any signature to be considered valid**</span>
+</div>
