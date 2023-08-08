@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+</head>
+<body>
+    <br>
+    <br>
+    <br>
+    <div class="m-auto mb-12 p-0 container pb-5"
+            style="background-color: white;border-radius: 13px; max-width: 80%;border: 2px solid #b8b8b861;">
+            <div class="row mx-auto">
+                <div class="col-8 pt-2 pb-0 mb-3" style="background-color: rgb(183, 3, 3);border-radius: 13px 0px 0px;">
+                    <p class="text-white lead" style="font-weight:600">Revolving Fund Liquidation</p>
+                </div>
+                <div class="col-4 p-0">
+                    <img src="https://hrmdweb.com/img/weblogo.png" class="logo" style="max-width: 100%;"></img>
+                </div>
+            </div>
+            <br>
+            <div class="row container m-auto">
+                <!-- COL 1 -->
+                <div class="col-2">
+                    <div class="mb-3">
+                        <p style="padding: 0.375rem 0.75rem;">ID Number:</p>
+                    </div>
+                    <div class="mb-3">
+
+                        <p style="padding: 0.375rem 0.75rem;">Requestor:</p>
+                    </div>
+                    <div class="mb-3">
+
+                        <p style="padding: 0.375rem 0.75rem;">Date:</p>
+                    </div>
+                    <div class="mb-3">
+
+                        <p style="padding: 0.375rem 0.75rem;">Base Branch:</p>
+                    </div>
+                    <div class="mb-3">
+                        <p style="padding: 0.375rem 0.75rem;">Region:</p>
+
+                    </div>
+                    <div class="mb-3">
+
+                        <p style="padding: 0.375rem 0.75rem;">Zone Code:</p>
+                    </div>
+                </div>
+                <div class="col-4">
+                   <div class="mb-3">
+                        <input class="form-control" readonly  value="<%= request.idNumber %>">
+                   </div>
+                   <div class="mb-3">
+                        <input class="form-control" readonly  value="<%= request.requestor %>">
+                   </div>
+                   <div class="mb-3">
+                        <input class="form-control" readonly  value="<%= request.date %>">
+                   </div>
+                   <div class="mb-3">
+                        <input class="form-control" readonly  value="<%= request.baseBranch %>">
+                   </div>
+                   <div class="mb-3">
+                        <input class="form-control" readonly  value="<%= request.region %>">
+                   </div>
+                   <div class="mb-3">
+                        <input class="form-control" readonly  value="<%= request.zonecode %>">
+                   </div>
+                </div>
+                <div class="ml-3">
+                    <div class="mb-3">
+                        <p style="padding: 0.375rem 0.75rem;">Control No:</p>
+                    </div>
+                    <div class="mb-3">
+
+                        <p style="padding: 0.375rem 0.75rem;">Period:</p>
+                    </div>
+                    <div class="mb-3">
+
+                        <p style="padding: 0.375rem 0.75rem;">RF Allowance:</p>
+                    </div>
+                    <div class="mb-3">
+
+                        <p style="padding: 0.375rem 0.75rem;">Pending RF:</p>
+                    </div>
+                    <div class="mb-3">
+                        <p style="padding: 0.375rem 0.75rem;">Cash on hand:</p>
+
+                    </div>
+                </div>
+                <div class="col-4">
+                   <div class="mb-3">
+                        <input class="form-control" readonly  value="<%= request.controlNo %>">
+                   </div>
+                   <div class="mb-3">
+                        <input class="form-control" readonly  value="<%= request.period %>">
+                   </div>
+                   <div class="mb-3">
+                        <input class="form-control" readonly  value="<%= request.rfAllowance %>">
+                   </div>
+                   <div class="mb-3">
+                        <input class="form-control" readonly  value="<%= request.pendingRf %>">
+                   </div>
+                   <div class="mb-3">
+                        <input class="form-control" readonly  value="<%= request.cashOnHand %>">
+                   </div>
+                </div>
+            </div>
+            <br>
+            <div class="row container m-auto">
+                <!-- COL 1 -->
+                <div class="col-2">
+                    <div class="mb-3">
+                        <p style="padding: 0.375rem 0.75rem;">Transportation:</p>
+                    </div>
+                    <div class="mb-3">
+
+                        <p style="padding: 0.375rem 0.75rem;">Office Supplies:</p>
+                    </div>
+                    <div class="mb-3">
+
+                        <p style="padding: 0.375rem 0.75rem;">Meals:</p>
+                    </div>
+                    <div class="mb-3">
+
+                        <p style="padding: 0.375rem 0.75rem;">Others:</p>
+                    </div>
+                    <div class="mb-3">
+
+                        <p style="padding: 0.375rem 0.75rem;">Total Expenses:</p>
+                    </div>
+                </div>
+                <div class="col-4">
+                   <div class="mb-3">
+                        <input class="form-control" readonly  value="<%= request.transportation %>">
+                   </div>
+                   <div class="mb-3">
+                        <input class="form-control" readonly  value="<%= request.officeSupplies %>">
+                   </div>
+                   <div class="mb-3">
+                        <input class="form-control" readonly  value="<%= request.meals %>">
+                   </div>
+                   <div class="mb-3">
+                        <input class="form-control" readonly  value="<%= request.others %>">
+                   </div>
+                   <div class="mb-3">
+                        <input class="form-control" readonly  value="<%= request.totalExpenses %>">
+                   </div>
+                </div>
+                <div class="ml-3">
+                    <div class="mb-3">
+                        <p style="padding: 0.375rem 0.75rem;">Purpose:</p>
+                    </div>
+                </div>
+                <div class="col-4">
+                   <div class="mb-3">
+                        <input class="form-control" readonly  value="<%= request.purpose %>">
+                   </div>
+                </div>
+            </div>
+            <br>
+            <br>
+            <div>
+                <hr class="col-11">
+            </div>
+            <br>
+            <br>
+            <!-- TABLE APPROVERS -->
+            <table style="border-collapse: collapse; width: 85%;margin:auto;">
+                <thead>
+                    <tr style="margin: auto;">
+                        <% for(var i=0; i < approvers.length; i++) {%>
+                           <% if (i <= 2) {%>
+                            <th :key="i" style="text-transform:uppercase;border: 1px solid #b6b4b4;font-weight: 500;text-align: center;padding: 8px;
+                            font-size: 15px;">
+                                <div>
+                                    <p class="mb-0"
+                                        style="color: green;text-transform: uppercase;">
+                                        <%= approvers[i].status%></p>
+                                    <p style="text-transform:uppercase;"> <%= approvers[i].date%></p>
+                                    <p>
+                                        <%= approvers[i].name%>
+                                    </p>
+                                </div>
+                            </th>
+                            <% } %>
+                         <% } %>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <% for(var i=0; i < approvers.length; i++) {%>
+                            <% if (i <= 2) {%>
+                                <td :key="i" style="width:28.4%;font-weight: 400;border-bottom: none;border-top: 1px solid #b6b4b4;border-left: 1px solid #b6b4b4;border-right: 1px solid #b6b4b4; text-align: center;padding: 8px;
+                                font-size: 12px">
+                                    <%= approvers[i].position%>
+                                </td>
+                            <% } %>
+                        <% } %>
+                    </tr>
+                    <tr>
+                        <% for(var i=0; i < approvers.length; i++) {%>
+                            <% if (i <= 2) {%>
+                                <td :key="i" style="width:28.4%;word-wrap: break-word; word-break: break-all;font-weight: 400;border-top: none;border-bottom: 1px solid #b6b4b4;border-left: 1px solid #b6b4b4;border-right: 1px solid #b6b4b4; text-align: center;padding: 6px 8px 6px 8px;
+                                font-size: 11px">
+                                    <p style="font-style:italic;text-transform:capitalize;
+                                        ">
+                                         <% if (approvers[i].remarks) {%>
+                                            <span style="color: red;">*</span>
+                                        <% } %>
+                                        <%= approvers[i].remarks%>
+                                    </p>
+                                </td>
+                            <% } %>
+                        <% } %>
+                    </tr>
+                </tbody>
+            </table>
+            <table style="border-collapse: collapse; width: 85%;margin:auto;">
+                <thead>
+                    <tr style="margin: auto;">
+                        <% for(var i=0; i < approvers.length; i++) {%>
+                            <% if (i >= 3) {%>
+                             <th :key="i" style="text-transform:uppercase;border: 1px solid #b6b4b4;font-weight: 500;text-align: center;padding: 8px;
+                             font-size: 15px;">
+                                 <div>
+                                     <p class="mb-0"
+                                         style="color: green;text-transform: uppercase;">
+                                         <%= approvers[i].status%></p>
+                                     <p style="text-transform:uppercase;"> <%= approvers[i].date%></p>
+                                     <p>
+                                         <%= approvers[i].name%>
+                                     </p>
+                                 </div>
+                             </th>
+                             <% } %>
+                          <% } %>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <% for(var i=0; i < approvers.length; i++) {%>
+                            <% if (i >= 3) {%>
+                                <td :key="i" style="width:28.4%;font-weight: 400;border-bottom: none;border-top: 1px solid #b6b4b4;border-left: 1px solid #b6b4b4;border-right: 1px solid #b6b4b4; text-align: center;padding: 8px;
+                                font-size: 12px">
+                                    <%= approvers[i].position%>
+                                </td>
+                            <% } %>
+                        <% } %>
+                    </tr>
+                    <tr>
+                        <% for(var i=0; i < approvers.length; i++) {%>
+                            <% if (i >= 3) {%>
+                                <td :key="i" style="width:28.4%;word-wrap: break-word; word-break: break-all;font-weight: 400;border-top: none;border-bottom: 1px solid #b6b4b4;border-left: 1px solid #b6b4b4;border-right: 1px solid #b6b4b4; text-align: center;padding: 6px 8px 6px 8px;
+                                font-size: 11px">
+                                    <p style="font-style:italic;text-transform:capitalize;
+                                        ">
+                                         <% if (approvers[i].remarks) {%>
+                                            <span style="color: red;">*</span>
+                                        <% } %>
+                                        <%= approvers[i].remarks%>
+                                    </p>
+                                </td>
+                            <% } %>
+                        <% } %>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+    </div>
+    <br>
+    <div class="mx-auto text-center mt-8">
+        <p style="color:rgb(66 66 66);font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">M. LHUILLIER FINANCIAL SERVICES, INC.</p>
+        <p style="color:rgb(66 66 66);font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Cash Request &copy; <%= year %></p>
+      </div>
+    <br>
+    <br>
+</body>
+</html>

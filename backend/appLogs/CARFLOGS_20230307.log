@@ -1,0 +1,20 @@
+INFO 2023-03-07T08:57:41.473 server.js -  Server listening to port: 3000
+INFO 2023-03-07T08:57:42.100 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-07T08:57:44.203 requestController - getMaxId -  row: 1
+INFO 2023-03-07T08:58:15.651 requestController - getMaxId -  row: 1
+ERROR 2023-03-07T08:58:28.658 auth - verifyToken -  Unauthorized. A token is required for authentication - undefined
+INFO 2023-03-07T09:46:25.232 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjIwMjI3NjkwIiwiaWF0IjoxNjc4MTUzNTg1LCJleHAiOjE2NzgxNTQ0ODV9.CadRN3BJGUbMI5wd0RzdRRzig4Jehc0cfUUPi9_nJDk
+INFO 2023-03-07T09:47:09.914 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjIwMjI3NjkwIiwiaWF0IjoxNjc4MTUzNTg1LCJleHAiOjE2NzgxNTQ0ODV9.CadRN3BJGUbMI5wd0RzdRRzig4Jehc0cfUUPi9_nJDk
+INFO 2023-03-07T09:47:10.000 requestController - getRfMaxId -  row: 1
+INFO 2023-03-07T09:47:30.269 server.js -  Server listening to port: 3000
+INFO 2023-03-07T09:47:30.754 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-07T09:47:46.551 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjIwMjI3NjkwIiwiaWF0IjoxNjc4MTUzNTg1LCJleHAiOjE2NzgxNTQ0ODV9.CadRN3BJGUbMI5wd0RzdRRzig4Jehc0cfUUPi9_nJDk
+INFO 2023-03-07T09:47:46.971 requestController - getRfMaxId -  row: 1
+INFO 2023-03-07T14:03:22.152 server.js -  Server listening to port: 3000
+INFO 2023-03-07T14:03:22.672 10.4.9.186 - branch_request - Branch Connected.
+FATAL 2023-03-07T14:03:27.222 auth - verifyToken -  Unauthorized. Invalid Token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjIwMjI3NjkwIiwiaWF0IjoxNjc4MTUzNTg1LCJleHAiOjE2NzgxNTQ0ODV9.CadRN3BJGUbMI5wd0RzdRRzig4Jehc0cfUUPi9_nJDk
+INFO 2023-03-07T14:03:34.669 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjIwMjI3NjkwIiwiaWF0IjoxNjc4MTY5MDE0LCJleHAiOjE2NzgxNjk5MTR9.gZbcEN6fgTYinorBq04yW0sWo7S1VYmPisW2iObrPCc
+INFO 2023-03-07T14:03:43.615 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjIwMjI3NjkwIiwiaWF0IjoxNjc4MTY5MDE0LCJleHAiOjE2NzgxNjk5MTR9.gZbcEN6fgTYinorBq04yW0sWo7S1VYmPisW2iObrPCc
+INFO 2023-03-07T14:03:44.043 requestController - getRfMaxId -  row: 1
+INFO 2023-03-07T14:05:58.315 server.js -  Server listening to port: 3000
+INFO 2023-03-07T14:05:58.693 10.4.9.186 - branch_request - Branch Connected.

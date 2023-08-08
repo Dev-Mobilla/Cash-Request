@@ -1,0 +1,17 @@
+INFO 2023-03-17T08:55:33.805 server.js -  Server listening to port: 3000
+FATAL 2023-03-17T08:55:33.811 10.4.9.186 - branch_request - Branch Connection Failed. Error: connect ETIMEDOUT
+INFO 2023-03-17T08:56:49.291 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY3OTAxNDYwOSwiZXhwIjoxNjc5MDE1NTA5fQ.yBTfhfzMlcP3JDqjycDiSwppSdUYmo7U6viLZEFY0iM
+INFO 2023-03-17T08:56:49.555 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY3OTAxNDYwOSwiZXhwIjoxNjc5MDE1NTA5fQ.yBTfhfzMlcP3JDqjycDiSwppSdUYmo7U6viLZEFY0iM
+INFO 2023-03-17T08:56:49.559 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY3OTAxNDYwOSwiZXhwIjoxNjc5MDE1NTA5fQ.yBTfhfzMlcP3JDqjycDiSwppSdUYmo7U6viLZEFY0iM
+INFO 2023-03-17T08:56:49.567 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY3OTAxNDYwOSwiZXhwIjoxNjc5MDE1NTA5fQ.yBTfhfzMlcP3JDqjycDiSwppSdUYmo7U6viLZEFY0iM
+INFO 2023-03-17T08:56:49.589 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY3OTAxNDYwOSwiZXhwIjoxNjc5MDE1NTA5fQ.yBTfhfzMlcP3JDqjycDiSwppSdUYmo7U6viLZEFY0iM
+INFO 2023-03-17T08:56:49.661 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-17T08:56:50.003 getAllRequestsCash Rows Length : 3
+INFO 2023-03-17T08:56:50.570 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY3OTAxNDYwOSwiZXhwIjoxNjc5MDE1NTA5fQ.yBTfhfzMlcP3JDqjycDiSwppSdUYmo7U6viLZEFY0iM
+INFO 2023-03-17T08:56:50.577 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY3OTAxNDYwOSwiZXhwIjoxNjc5MDE1NTA5fQ.yBTfhfzMlcP3JDqjycDiSwppSdUYmo7U6viLZEFY0iM
+INFO 2023-03-17T08:56:50.658 getAllRequestsForApprovalCash - area_approver Data Retrieved : 25
+INFO 2023-03-17T08:56:50.665 getAllRequestsForApprovalRevolving - am_approver Data Retrieved : 3
+INFO 2023-03-17T08:59:48.881 server.js -  Server listening to port: 3000
+INFO 2023-03-17T08:59:49.250 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-17T09:00:03.894 server.js -  Server listening to port: 3000
+INFO 2023-03-17T09:00:04.246 10.4.9.186 - branch_request - Branch Connected.

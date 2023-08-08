@@ -1,0 +1,213 @@
+INFO 2023-04-15T08:41:53.032 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+FATAL 2023-04-15T08:41:53.108 10.4.9.186 - branch_request - Branch Connection Failed. Error: connect ETIMEDOUT
+INFO 2023-04-15T08:41:53.088 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T08:44:06.020 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTUxOTQ0NiwiZXhwIjoxNjgxNTIwMzQ2fQ.A3HaZIDkrX_d8t8nZtk1Q1UYSbGwglbzQ2OG_hR56ws
+INFO 2023-04-15T08:44:06.036 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTUxOTQ0NiwiZXhwIjoxNjgxNTIwMzQ2fQ.A3HaZIDkrX_d8t8nZtk1Q1UYSbGwglbzQ2OG_hR56ws
+INFO 2023-04-15T08:44:06.157 usersController - getAllApproverEmail responseMesage - Success - Complete (5) Approvers. , responseCode - 0
+INFO 2023-04-15T08:44:06.439 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTUxOTQ0NiwiZXhwIjoxNjgxNTIwMzQ2fQ.A3HaZIDkrX_d8t8nZtk1Q1UYSbGwglbzQ2OG_hR56ws
+INFO 2023-04-15T08:44:06.444 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTUxOTQ0NiwiZXhwIjoxNjgxNTIwMzQ2fQ.A3HaZIDkrX_d8t8nZtk1Q1UYSbGwglbzQ2OG_hR56ws
+INFO 2023-04-15T08:44:06.529 getAllRequestsRevFund Rows Length : 4
+INFO 2023-04-15T08:44:06.932 getAllRequestsCash Rows Length : 12
+INFO 2023-04-15T09:41:34.393 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTUyMjg5NCwiZXhwIjoxNjgxNTIzNzk0fQ.7lnU-wgNB85fwQ3L_-4Xt1NZ5aap5Um3bcaNYaJf9KM
+INFO 2023-04-15T09:41:34.533 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTUyMjg5NCwiZXhwIjoxNjgxNTIzNzk0fQ.7lnU-wgNB85fwQ3L_-4Xt1NZ5aap5Um3bcaNYaJf9KM
+INFO 2023-04-15T09:41:34.614 usersController - getAllApproverEmail responseMesage - Success - Complete (5) Approvers. , responseCode - 0
+INFO 2023-04-15T09:41:34.897 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTUyMjg5NCwiZXhwIjoxNjgxNTIzNzk0fQ.7lnU-wgNB85fwQ3L_-4Xt1NZ5aap5Um3bcaNYaJf9KM
+INFO 2023-04-15T09:41:34.902 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTUyMjg5NCwiZXhwIjoxNjgxNTIzNzk0fQ.7lnU-wgNB85fwQ3L_-4Xt1NZ5aap5Um3bcaNYaJf9KM
+INFO 2023-04-15T09:41:35.013 getAllRequestsRevFund Rows Length : 4
+INFO 2023-04-15T09:41:35.115 getAllRequestsCash Rows Length : 12
+INFO 2023-04-15T09:41:42.609 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTUyMjg5NCwiZXhwIjoxNjgxNTIzNzk0fQ.7lnU-wgNB85fwQ3L_-4Xt1NZ5aap5Um3bcaNYaJf9KM
+INFO 2023-04-15T09:41:42.698 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-04-15T13:29:21.334 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:29:21.342 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:29:21.902 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:33:06.880 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:33:06.886 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:33:07.333 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:33:40.259 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:33:40.265 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:33:40.692 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:33:46.149 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:33:46.155 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:33:46.557 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:35:39.439 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:35:39.445 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:35:39.818 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:35:51.811 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:35:51.816 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:35:52.258 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:35:59.052 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:35:59.065 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:35:59.468 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:36:03.182 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:36:03.188 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:36:03.556 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:36:07.732 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:36:07.738 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:36:08.187 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:36:24.240 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:36:24.246 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:36:24.634 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:36:49.633 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:36:49.640 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:36:50.141 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:36:54.159 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:36:54.164 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:36:54.580 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:37:17.559 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:37:17.565 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:37:17.996 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:37:48.577 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:37:48.583 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:37:48.973 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:37:55.070 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:37:55.079 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:37:55.516 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:39:26.823 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:39:26.829 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:39:27.216 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:39:32.756 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:39:32.762 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:39:33.128 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:46:36.268 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:46:36.274 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:46:36.739 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:50:34.295 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:50:34.301 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:50:34.809 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:50:39.213 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:50:39.219 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:50:39.665 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T13:50:45.772 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T13:50:45.778 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T13:50:46.160 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T14:23:05.059 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T14:23:05.067 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T14:23:05.828 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T14:30:50.518 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T14:30:50.526 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T14:30:50.915 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T14:31:21.279 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T14:31:21.285 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T14:31:21.671 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T14:31:37.368 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T14:31:37.374 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T14:31:37.789 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T14:31:43.403 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T14:31:43.410 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T14:31:49.923 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T14:31:49.929 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T14:31:50.368 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T14:32:03.806 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T14:32:03.812 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T14:32:04.213 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T14:40:22.003 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T14:40:22.009 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T14:40:22.407 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T14:40:26.857 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T14:40:26.862 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T14:40:27.248 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T14:40:33.430 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T14:40:33.436 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T14:40:33.848 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T14:40:55.771 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T14:40:55.776 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T14:40:56.173 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T14:41:26.414 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T14:41:26.420 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T14:41:26.809 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T14:52:37.446 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+FATAL 2023-04-15T14:52:37.456 10.4.9.186 - branch_request - Branch Connection Failed. Error: connect ETIMEDOUT
+INFO 2023-04-15T14:52:37.453 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T15:00:29.884 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T15:00:29.890 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T15:00:30.295 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T15:00:37.270 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T15:00:37.277 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T15:00:37.677 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T15:04:14.293 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T15:04:14.298 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T15:04:14.767 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T15:04:18.632 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MjI1OCwiZXhwIjoxNjgxNTQzMTU4fQ.iP4aa2SrwLQyE9qO_vvIbWxrEaQ3nUn39niZMNthPSE
+INFO 2023-04-15T15:04:18.646 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MjI1OCwiZXhwIjoxNjgxNTQzMTU4fQ.iP4aa2SrwLQyE9qO_vvIbWxrEaQ3nUn39niZMNthPSE
+INFO 2023-04-15T15:04:18.738 usersController - getAllApproverEmail responseMesage - Success - Complete (5) Approvers. , responseCode - 0
+INFO 2023-04-15T15:04:19.060 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MjI1OCwiZXhwIjoxNjgxNTQzMTU4fQ.iP4aa2SrwLQyE9qO_vvIbWxrEaQ3nUn39niZMNthPSE
+INFO 2023-04-15T15:04:19.074 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MjI1OCwiZXhwIjoxNjgxNTQzMTU4fQ.iP4aa2SrwLQyE9qO_vvIbWxrEaQ3nUn39niZMNthPSE
+INFO 2023-04-15T15:04:19.163 getAllRequestsRevFund Rows Length : 4
+INFO 2023-04-15T15:04:19.569 getAllRequestsCash Rows Length : 13
+INFO 2023-04-15T15:04:24.664 requestController - getMaxId -  row: 1
+INFO 2023-04-15T15:04:42.772 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MjI1OCwiZXhwIjoxNjgxNTQzMTU4fQ.iP4aa2SrwLQyE9qO_vvIbWxrEaQ3nUn39niZMNthPSE
+INFO 2023-04-15T15:04:42.993 mailConfig - setTransporter -  nodeTransporter : undefined
+INFO 2023-04-15T15:04:46.262 mailConfig - setTransporter -  nodeTransporter : undefined
+INFO 2023-04-15T15:04:50.751 OpenRequestController - postCashRequest - updateApproverEmailDateRev responseMesage - Success: Rows matched: 1  Changed: 1  Warnings: 0, responseCode - 0
+INFO 2023-04-15T15:04:50.752 OpenRequestController - postCashRequest - SendEmailNotificationCashApproval responseMesage - Success: [object Object], responseCode - 0
+INFO 2023-04-15T15:04:54.270 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MjI1OCwiZXhwIjoxNjgxNTQzMTU4fQ.iP4aa2SrwLQyE9qO_vvIbWxrEaQ3nUn39niZMNthPSE
+INFO 2023-04-15T15:04:54.414 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-04-15T15:06:37.212 requestController - getMaxId -  row: 1
+INFO 2023-04-15T15:06:53.613 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MjI1OCwiZXhwIjoxNjgxNTQzMTU4fQ.iP4aa2SrwLQyE9qO_vvIbWxrEaQ3nUn39niZMNthPSE
+INFO 2023-04-15T15:06:53.698 mailConfig - setTransporter -  nodeTransporter : undefined
+INFO 2023-04-15T15:06:56.371 mailConfig - setTransporter -  nodeTransporter : undefined
+INFO 2023-04-15T15:06:58.838 OpenRequestController - postCashRequest - updateApproverEmailDateRev responseMesage - Success: Rows matched: 1  Changed: 1  Warnings: 0, responseCode - 0
+INFO 2023-04-15T15:06:58.838 OpenRequestController - postCashRequest - SendEmailNotificationCashApproval responseMesage - Success: [object Object], responseCode - 0
+INFO 2023-04-15T15:07:02.360 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MjI1OCwiZXhwIjoxNjgxNTQzMTU4fQ.iP4aa2SrwLQyE9qO_vvIbWxrEaQ3nUn39niZMNthPSE
+INFO 2023-04-15T15:07:02.442 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-04-15T15:16:17.173 requestController - getMaxId -  row: 1
+INFO 2023-04-15T15:16:35.605 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MjI1OCwiZXhwIjoxNjgxNTQzMTU4fQ.iP4aa2SrwLQyE9qO_vvIbWxrEaQ3nUn39niZMNthPSE
+INFO 2023-04-15T15:16:35.687 mailConfig - setTransporter -  nodeTransporter : undefined
+INFO 2023-04-15T15:16:38.795 mailConfig - setTransporter -  nodeTransporter : undefined
+INFO 2023-04-15T15:16:41.498 OpenRequestController - postCashRequest - updateApproverEmailDateRev responseMesage - Success: Rows matched: 1  Changed: 1  Warnings: 0, responseCode - 0
+INFO 2023-04-15T15:16:41.499 OpenRequestController - postCashRequest - SendEmailNotificationCashApproval responseMesage - Success: [object Object], responseCode - 0
+INFO 2023-04-15T15:16:45.041 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MjI1OCwiZXhwIjoxNjgxNTQzMTU4fQ.iP4aa2SrwLQyE9qO_vvIbWxrEaQ3nUn39niZMNthPSE
+INFO 2023-04-15T15:16:45.142 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-04-15T15:22:44.747 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+FATAL 2023-04-15T15:22:44.756 10.4.9.186 - branch_request - Branch Connection Failed. Error: connect ETIMEDOUT
+INFO 2023-04-15T15:22:44.753 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T15:22:59.899 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:22:59.911 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:22:59.992 usersController - getAllApproverEmail responseMesage - Success - Complete (5) Approvers. , responseCode - 0
+INFO 2023-04-15T15:23:00.253 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:23:00.258 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:23:00.339 getAllRequestsRevFund Rows Length : 4
+INFO 2023-04-15T15:23:00.699 getAllRequestsCash Rows Length : 16
+INFO 2023-04-15T15:23:04.884 requestController - getMaxId -  row: 1
+INFO 2023-04-15T15:23:19.548 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:23:19.715 mailConfig - setTransporter -  nodeTransporter : undefined
+INFO 2023-04-15T15:23:22.454 mailConfig - setTransporter -  nodeTransporter : undefined
+INFO 2023-04-15T15:23:25.503 OpenRequestController - postCashRequest - updateApproverEmailDateRev responseMesage - Success: Rows matched: 1  Changed: 1  Warnings: 0, responseCode - 0
+INFO 2023-04-15T15:23:25.503 OpenRequestController - postCashRequest - SendEmailNotificationCashApproval responseMesage - Success: [object Object], responseCode - 0
+INFO 2023-04-15T15:23:29.037 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:23:29.140 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-04-15T15:29:24.896 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:29:24.979 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-04-15T15:30:07.009 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:30:07.100 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-04-15T15:30:07.104 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:30:07.202 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-04-15T15:30:23.865 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:30:23.947 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:30:23.961 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-04-15T15:30:24.036 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-04-15T15:30:24.099 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:30:24.198 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-04-15T15:30:36.728 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:30:36.817 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-04-15T15:30:45.195 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:30:45.291 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-04-15T15:30:55.340 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:30:55.440 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-04-15T15:31:07.195 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:31:07.289 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-04-15T15:31:14.064 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:31:14.185 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-04-15T15:31:56.238 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:31:56.316 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MTU0MzM3OSwiZXhwIjoxNjgxNTQ0Mjc5fQ.7d1ygbUOGO1Z0h2d93fz9irscU8e5eaa3PeCVxLRIpw
+INFO 2023-04-15T15:31:56.326 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-04-15T15:31:56.414 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-04-15T15:45:26.663 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+FATAL 2023-04-15T15:45:26.673 10.4.9.186 - branch_request - Branch Connection Failed. Error: connect ETIMEDOUT
+INFO 2023-04-15T15:45:26.669 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T15:49:03.659 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T15:49:03.665 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T15:49:04.060 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-04-15T15:49:20.937 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-15T15:49:20.943 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-15T15:49:21.348 10.4.9.186 - branch_request - Branch Connected.

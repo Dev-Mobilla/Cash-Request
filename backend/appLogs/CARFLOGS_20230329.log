@@ -1,0 +1,725 @@
+FATAL 2023-03-29T08:44:03.916 10.4.9.186 - branch_request - Branch Connection Failed. Error: connect ETIMEDOUT
+INFO 2023-03-29T08:44:03.909 server.js -  Server listening to port: 3000
+INFO 2023-03-29T08:52:13.552 server.js -  Request to follow up - CA-230313-000021
+INFO 2023-03-29T08:52:13.553 server.js -  Request to follow up - CA-230315-000038
+INFO 2023-03-29T08:53:20.428 server.js -  Request to follow up - CA-230313-000021
+INFO 2023-03-29T08:53:20.429 server.js -  Request to follow up - CA-230315-000038
+INFO 2023-03-29T08:53:34.103 server.js -  Server listening to port: 3000
+INFO 2023-03-29T08:53:34.483 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T08:53:37.674 10.4.9.186 - branch_request - No request to follow up - 2013357
+INFO 2023-03-29T08:54:41.162 server.js -  Server listening to port: 3000
+INFO 2023-03-29T08:54:41.522 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T08:54:42.104 10.4.9.186 - branch_request - Request to follow up - CA-230313-000021
+INFO 2023-03-29T08:54:42.104 10.4.9.186 - branch_request - Request to follow up - CA-230315-000038
+INFO 2023-03-29T09:00:39.457 server.js -  Server listening to port: 3000
+INFO 2023-03-29T09:00:39.844 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T09:16:57.348 server.js -  Server listening to port: 3000
+INFO 2023-03-29T09:17:01.028 server.js -  Server listening to port: 3000
+INFO 2023-03-29T09:17:01.412 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T09:17:08.563 server.js -  Server listening to port: 3000
+INFO 2023-03-29T09:17:08.957 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T09:18:13.240 server.js -  Server listening to port: 3000
+INFO 2023-03-29T09:18:13.592 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T09:18:44.920 server.js -  Server listening to port: 3000
+INFO 2023-03-29T09:18:45.297 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T09:19:03.708 server.js -  Server listening to port: 3000
+INFO 2023-03-29T09:19:04.121 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T09:20:43.319 server.js -  Server listening to port: 3000
+INFO 2023-03-29T09:20:43.718 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T09:34:28.639 server.js -  Server listening to port: 3000
+INFO 2023-03-29T09:34:29.008 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T09:35:07.232 server.js -  Server listening to port: 3000
+INFO 2023-03-29T09:35:07.603 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T09:36:00.232 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1Mzc2MCwiZXhwIjoxNjgwMDU0NjYwfQ.pVEUybF0ByFAWN4YJU6RJ8r7AK8s3sLiLSkntHKqAzA
+INFO 2023-03-29T09:36:00.539 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1Mzc2MCwiZXhwIjoxNjgwMDU0NjYwfQ.pVEUybF0ByFAWN4YJU6RJ8r7AK8s3sLiLSkntHKqAzA
+INFO 2023-03-29T09:36:00.545 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1Mzc2MCwiZXhwIjoxNjgwMDU0NjYwfQ.pVEUybF0ByFAWN4YJU6RJ8r7AK8s3sLiLSkntHKqAzA
+INFO 2023-03-29T09:36:00.623 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T09:36:01.067 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T09:39:08.839 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA1Mzk0OCwiZXhwIjoxNjgwMDU0ODQ4fQ.92lqhc2WRquSx9rTvLSjDEqrFO2g4653Xclddc7YCtc
+INFO 2023-03-29T09:39:08.841 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA1Mzk0OCwiZXhwIjoxNjgwMDU0ODQ4fQ.92lqhc2WRquSx9rTvLSjDEqrFO2g4653Xclddc7YCtc
+INFO 2023-03-29T09:39:09.102 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA1Mzk0OCwiZXhwIjoxNjgwMDU0ODQ4fQ.92lqhc2WRquSx9rTvLSjDEqrFO2g4653Xclddc7YCtc
+INFO 2023-03-29T09:39:09.105 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA1Mzk0OCwiZXhwIjoxNjgwMDU0ODQ4fQ.92lqhc2WRquSx9rTvLSjDEqrFO2g4653Xclddc7YCtc
+INFO 2023-03-29T09:39:09.114 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA1Mzk0OCwiZXhwIjoxNjgwMDU0ODQ4fQ.92lqhc2WRquSx9rTvLSjDEqrFO2g4653Xclddc7YCtc
+INFO 2023-03-29T09:39:09.135 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA1Mzk0OCwiZXhwIjoxNjgwMDU0ODQ4fQ.92lqhc2WRquSx9rTvLSjDEqrFO2g4653Xclddc7YCtc
+INFO 2023-03-29T09:39:09.182 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T09:39:09.187 getAllRequestsCash Rows Length : 1
+INFO 2023-03-29T09:39:10.115 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA1Mzk0OCwiZXhwIjoxNjgwMDU0ODQ4fQ.92lqhc2WRquSx9rTvLSjDEqrFO2g4653Xclddc7YCtc
+INFO 2023-03-29T09:39:10.121 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA1Mzk0OCwiZXhwIjoxNjgwMDU0ODQ4fQ.92lqhc2WRquSx9rTvLSjDEqrFO2g4653Xclddc7YCtc
+INFO 2023-03-29T09:39:10.214 getAllRequestsForApprovalRevolving - rm_approver Data Retrieved : 0
+INFO 2023-03-29T09:39:10.277 getAllRequestsForApprovalCash - regional_approver Data Retrieved : 0
+INFO 2023-03-29T09:44:54.222 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA1Mzk0OCwiZXhwIjoxNjgwMDU0ODQ4fQ.92lqhc2WRquSx9rTvLSjDEqrFO2g4653Xclddc7YCtc
+INFO 2023-03-29T09:44:54.225 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA1Mzk0OCwiZXhwIjoxNjgwMDU0ODQ4fQ.92lqhc2WRquSx9rTvLSjDEqrFO2g4653Xclddc7YCtc
+INFO 2023-03-29T09:44:54.234 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA1Mzk0OCwiZXhwIjoxNjgwMDU0ODQ4fQ.92lqhc2WRquSx9rTvLSjDEqrFO2g4653Xclddc7YCtc
+INFO 2023-03-29T09:44:54.241 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA1Mzk0OCwiZXhwIjoxNjgwMDU0ODQ4fQ.92lqhc2WRquSx9rTvLSjDEqrFO2g4653Xclddc7YCtc
+INFO 2023-03-29T09:44:54.302 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T09:44:54.305 getAllRequestsCash Rows Length : 1
+INFO 2023-03-29T09:44:55.458 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA1Mzk0OCwiZXhwIjoxNjgwMDU0ODQ4fQ.92lqhc2WRquSx9rTvLSjDEqrFO2g4653Xclddc7YCtc
+INFO 2023-03-29T09:44:55.465 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA1Mzk0OCwiZXhwIjoxNjgwMDU0ODQ4fQ.92lqhc2WRquSx9rTvLSjDEqrFO2g4653Xclddc7YCtc
+INFO 2023-03-29T09:44:55.572 getAllRequestsForApprovalRevolving - rm_approver Data Retrieved : 0
+INFO 2023-03-29T09:44:55.644 getAllRequestsForApprovalCash - regional_approver Data Retrieved : 0
+INFO 2023-03-29T09:56:02.527 server.js -  Server listening to port: 3000
+INFO 2023-03-29T09:56:03.015 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T10:02:08.207 server.js -  Server listening to port: 3000
+INFO 2023-03-29T10:02:08.589 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T10:02:10.918 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1NTMzMCwiZXhwIjoxNjgwMDU2MjMwfQ.YL33-y6dbozhyuJRQHXPAopcqETcNpnXnir_IpiCRaM
+INFO 2023-03-29T10:02:11.211 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1NTMzMCwiZXhwIjoxNjgwMDU2MjMwfQ.YL33-y6dbozhyuJRQHXPAopcqETcNpnXnir_IpiCRaM
+INFO 2023-03-29T10:02:11.216 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1NTMzMCwiZXhwIjoxNjgwMDU2MjMwfQ.YL33-y6dbozhyuJRQHXPAopcqETcNpnXnir_IpiCRaM
+INFO 2023-03-29T10:02:11.300 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T10:02:11.699 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T10:42:20.286 server.js -  Server listening to port: 3000
+INFO 2023-03-29T10:42:20.698 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T10:44:45.913 server.js -  Server listening to port: 3000
+INFO 2023-03-29T10:44:46.366 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T10:44:56.159 server.js -  Server listening to port: 3000
+INFO 2023-03-29T10:44:56.605 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T10:47:37.593 server.js -  Server listening to port: 3000
+INFO 2023-03-29T10:47:38.010 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T10:49:41.409 server.js -  Server listening to port: 3000
+INFO 2023-03-29T10:49:41.835 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T10:50:25.181 server.js -  Server listening to port: 3000
+INFO 2023-03-29T10:50:25.578 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T10:50:28.805 server.js -  Server listening to port: 3000
+INFO 2023-03-29T10:50:29.218 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T10:51:12.023 server.js -  Server listening to port: 3000
+INFO 2023-03-29T10:51:12.431 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T10:52:55.277 server.js -  Server listening to port: 3000
+INFO 2023-03-29T10:52:55.671 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T10:53:13.908 server.js -  Server listening to port: 3000
+INFO 2023-03-29T10:53:14.297 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T10:53:23.519 server.js -  Server listening to port: 3000
+INFO 2023-03-29T10:53:23.936 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T10:54:05.146 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODQ0NSwiZXhwIjoxNjgwMDU5MzQ1fQ._rBwwNfcGNNP7akw3Lydm_g4nx2AcAz2b-cSKR79kzI
+INFO 2023-03-29T10:54:05.438 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODQ0NSwiZXhwIjoxNjgwMDU5MzQ1fQ._rBwwNfcGNNP7akw3Lydm_g4nx2AcAz2b-cSKR79kzI
+INFO 2023-03-29T10:54:05.444 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODQ0NSwiZXhwIjoxNjgwMDU5MzQ1fQ._rBwwNfcGNNP7akw3Lydm_g4nx2AcAz2b-cSKR79kzI
+INFO 2023-03-29T10:54:05.531 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T10:54:06.000 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T10:54:46.216 server.js -  Server listening to port: 3000
+INFO 2023-03-29T10:54:46.634 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T10:55:26.943 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODUyNiwiZXhwIjoxNjgwMDU5NDI2fQ.fcIcEGtVuVW2duArpdWPUSAWWoiZAzMrZwhlQniQWvk
+INFO 2023-03-29T10:55:52.510 server.js -  Server listening to port: 3000
+INFO 2023-03-29T10:55:52.908 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T10:55:56.685 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODUyNiwiZXhwIjoxNjgwMDU5NDI2fQ.fcIcEGtVuVW2duArpdWPUSAWWoiZAzMrZwhlQniQWvk
+INFO 2023-03-29T10:55:56.694 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODUyNiwiZXhwIjoxNjgwMDU5NDI2fQ.fcIcEGtVuVW2duArpdWPUSAWWoiZAzMrZwhlQniQWvk
+INFO 2023-03-29T10:55:56.697 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODUyNiwiZXhwIjoxNjgwMDU5NDI2fQ.fcIcEGtVuVW2duArpdWPUSAWWoiZAzMrZwhlQniQWvk
+INFO 2023-03-29T10:55:56.699 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODUyNiwiZXhwIjoxNjgwMDU5NDI2fQ.fcIcEGtVuVW2duArpdWPUSAWWoiZAzMrZwhlQniQWvk
+INFO 2023-03-29T10:55:56.710 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODUyNiwiZXhwIjoxNjgwMDU5NDI2fQ.fcIcEGtVuVW2duArpdWPUSAWWoiZAzMrZwhlQniQWvk
+INFO 2023-03-29T10:55:56.712 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODUyNiwiZXhwIjoxNjgwMDU5NDI2fQ.fcIcEGtVuVW2duArpdWPUSAWWoiZAzMrZwhlQniQWvk
+INFO 2023-03-29T10:55:57.193 getAllRequestsCash - No data found Rows Length : 0
+INFO 2023-03-29T10:55:57.212 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T10:55:57.219 getAllRequestsCash Rows Length : 1
+INFO 2023-03-29T10:55:57.223 getAllRequestsCash Rows Length : 1
+INFO 2023-03-29T10:55:57.231 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T10:55:57.237 getAllRequestsRevFund Rows Length : 2
+INFO 2023-03-29T10:55:57.765 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODUyNiwiZXhwIjoxNjgwMDU5NDI2fQ.fcIcEGtVuVW2duArpdWPUSAWWoiZAzMrZwhlQniQWvk
+INFO 2023-03-29T10:55:57.771 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODUyNiwiZXhwIjoxNjgwMDU5NDI2fQ.fcIcEGtVuVW2duArpdWPUSAWWoiZAzMrZwhlQniQWvk
+INFO 2023-03-29T10:55:57.857 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T10:55:57.949 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T10:57:48.518 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODUyNiwiZXhwIjoxNjgwMDU5NDI2fQ.fcIcEGtVuVW2duArpdWPUSAWWoiZAzMrZwhlQniQWvk
+INFO 2023-03-29T10:57:48.522 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODUyNiwiZXhwIjoxNjgwMDU5NDI2fQ.fcIcEGtVuVW2duArpdWPUSAWWoiZAzMrZwhlQniQWvk
+INFO 2023-03-29T10:57:48.643 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T10:57:48.731 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T10:58:07.460 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODY4NywiZXhwIjoxNjgwMDU5NTg3fQ.clGP0gvGO4UpQhAdXL7nNH1Ysg5QZ79Hm56_6A0-1Ac
+INFO 2023-03-29T10:58:07.669 usersController - getAllApproverEmail responseMesage - Service Error :  undefined, responseCode - 3
+INFO 2023-03-29T10:58:08.047 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODY4NywiZXhwIjoxNjgwMDU5NTg3fQ.clGP0gvGO4UpQhAdXL7nNH1Ysg5QZ79Hm56_6A0-1Ac
+INFO 2023-03-29T10:58:08.051 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODY4NywiZXhwIjoxNjgwMDU5NTg3fQ.clGP0gvGO4UpQhAdXL7nNH1Ysg5QZ79Hm56_6A0-1Ac
+INFO 2023-03-29T10:58:08.158 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T10:58:08.245 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T10:59:36.789 server.js -  Server listening to port: 3000
+INFO 2023-03-29T10:59:37.212 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T10:59:51.144 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODc5MSwiZXhwIjoxNjgwMDU5NjkxfQ.aZ1EHa6xcStSAGjZKbLzNZaaUWRaujVBi6KPPrXWlvA
+INFO 2023-03-29T10:59:51.256 usersController - getAllApproverEmail responseMesage - Service Error :  Query was empty, responseCode - 3
+INFO 2023-03-29T10:59:51.569 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODc5MSwiZXhwIjoxNjgwMDU5NjkxfQ.aZ1EHa6xcStSAGjZKbLzNZaaUWRaujVBi6KPPrXWlvA
+INFO 2023-03-29T10:59:51.574 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODc5MSwiZXhwIjoxNjgwMDU5NjkxfQ.aZ1EHa6xcStSAGjZKbLzNZaaUWRaujVBi6KPPrXWlvA
+INFO 2023-03-29T10:59:51.653 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T10:59:52.075 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T11:00:37.952 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:00:38.367 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:01:25.356 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:01:25.734 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:01:35.269 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODg5NSwiZXhwIjoxNjgwMDU5Nzk1fQ.brvtkQBkPmsZQDE-KZfmMVpx6Lhq-ZUP4ye9Lk14FT0
+INFO 2023-03-29T11:01:35.374 usersController - getAllApproverEmail responseMesage - Service Error :  Query was empty, responseCode - 3
+INFO 2023-03-29T11:01:35.638 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODg5NSwiZXhwIjoxNjgwMDU5Nzk1fQ.brvtkQBkPmsZQDE-KZfmMVpx6Lhq-ZUP4ye9Lk14FT0
+INFO 2023-03-29T11:01:35.643 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODg5NSwiZXhwIjoxNjgwMDU5Nzk1fQ.brvtkQBkPmsZQDE-KZfmMVpx6Lhq-ZUP4ye9Lk14FT0
+INFO 2023-03-29T11:01:35.725 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T11:01:36.135 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T11:02:23.107 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODg5NSwiZXhwIjoxNjgwMDU5Nzk1fQ.brvtkQBkPmsZQDE-KZfmMVpx6Lhq-ZUP4ye9Lk14FT0
+INFO 2023-03-29T11:02:23.110 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODg5NSwiZXhwIjoxNjgwMDU5Nzk1fQ.brvtkQBkPmsZQDE-KZfmMVpx6Lhq-ZUP4ye9Lk14FT0
+INFO 2023-03-29T11:02:23.190 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T11:02:23.276 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T11:02:41.544 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODk2MSwiZXhwIjoxNjgwMDU5ODYxfQ.KpyAq8xlNyacgzXePXMK8QDNr9JABvGoet6gRr7pZiA
+INFO 2023-03-29T11:02:41.875 usersController - getAllApproverEmail responseMesage - Service Error :  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET @rmId = '94006871';
+           SET @ramId = '3019262';
+           SET @assId' at line 2, responseCode - 3
+INFO 2023-03-29T11:02:42.174 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODk2MSwiZXhwIjoxNjgwMDU5ODYxfQ.KpyAq8xlNyacgzXePXMK8QDNr9JABvGoet6gRr7pZiA
+INFO 2023-03-29T11:02:42.177 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1ODk2MSwiZXhwIjoxNjgwMDU5ODYxfQ.KpyAq8xlNyacgzXePXMK8QDNr9JABvGoet6gRr7pZiA
+INFO 2023-03-29T11:02:42.255 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T11:02:42.338 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T11:05:02.140 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:05:02.507 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:05:24.024 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTEyNCwiZXhwIjoxNjgwMDYwMDI0fQ.uQPrCz_5SnkMjFj6m4AXOnYGOaUWrEXInKnpfjko5po
+INFO 2023-03-29T11:05:24.159 usersController - getAllApproverEmail responseMesage - Service Error :  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET @rmId = 94006871;
+           SET @ramId = 3019262;
+           SET @assId = 1' at line 2, responseCode - 3
+INFO 2023-03-29T11:05:24.465 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTEyNCwiZXhwIjoxNjgwMDYwMDI0fQ.uQPrCz_5SnkMjFj6m4AXOnYGOaUWrEXInKnpfjko5po
+INFO 2023-03-29T11:05:24.469 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTEyNCwiZXhwIjoxNjgwMDYwMDI0fQ.uQPrCz_5SnkMjFj6m4AXOnYGOaUWrEXInKnpfjko5po
+INFO 2023-03-29T11:05:24.553 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T11:05:24.990 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T11:06:55.338 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:06:55.698 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:07:02.971 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTIyMiwiZXhwIjoxNjgwMDYwMTIyfQ.lWBbqhnK-LnUZO2pAXfbsYFJvl5V1rg6FkpZ3tUFAM0
+INFO 2023-03-29T11:07:03.106 usersController - getAllApproverEmail responseMesage - Service Error :  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET @rmId = 94006871;
+           SET @ramId = 3019262;
+           SET @assId = 1' at line 2, responseCode - 3
+INFO 2023-03-29T11:07:03.432 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTIyMiwiZXhwIjoxNjgwMDYwMTIyfQ.lWBbqhnK-LnUZO2pAXfbsYFJvl5V1rg6FkpZ3tUFAM0
+INFO 2023-03-29T11:07:03.436 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTIyMiwiZXhwIjoxNjgwMDYwMTIyfQ.lWBbqhnK-LnUZO2pAXfbsYFJvl5V1rg6FkpZ3tUFAM0
+INFO 2023-03-29T11:07:03.535 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T11:07:04.080 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T11:09:41.054 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:09:41.433 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:09:50.677 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:09:51.081 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:10:41.823 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:10:42.196 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:10:54.375 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTQ1NCwiZXhwIjoxNjgwMDYwMzU0fQ.qrMKJHj9tLXtT2mxojMfS-HgyJtq7qOHtMrElyXaOb0
+INFO 2023-03-29T11:10:54.512 usersController - getAllApproverEmail responseMesage - Service Error :  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET @rmId = '94006871';
+           SET @ramId = '3019262';
+           SET @assId' at line 2, responseCode - 3
+INFO 2023-03-29T11:10:54.854 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTQ1NCwiZXhwIjoxNjgwMDYwMzU0fQ.qrMKJHj9tLXtT2mxojMfS-HgyJtq7qOHtMrElyXaOb0
+INFO 2023-03-29T11:10:54.858 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTQ1NCwiZXhwIjoxNjgwMDYwMzU0fQ.qrMKJHj9tLXtT2mxojMfS-HgyJtq7qOHtMrElyXaOb0
+INFO 2023-03-29T11:10:54.947 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T11:10:55.375 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T11:11:30.412 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:11:30.817 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:11:37.425 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTQ5NywiZXhwIjoxNjgwMDYwMzk3fQ.BXJ5mVwVxZdaPltKHy_wXbD7lEU_F-PwF8Oxycktjns
+INFO 2023-03-29T11:11:37.559 usersController - getAllApproverEmail responseMesage - Service Error :  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET @rmId = '94006871';
+           SET @ramId = '3019262';
+           SET @assId' at line 2, responseCode - 3
+INFO 2023-03-29T11:11:37.846 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTQ5NywiZXhwIjoxNjgwMDYwMzk3fQ.BXJ5mVwVxZdaPltKHy_wXbD7lEU_F-PwF8Oxycktjns
+INFO 2023-03-29T11:11:37.850 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTQ5NywiZXhwIjoxNjgwMDYwMzk3fQ.BXJ5mVwVxZdaPltKHy_wXbD7lEU_F-PwF8Oxycktjns
+INFO 2023-03-29T11:11:37.940 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T11:11:38.341 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T11:11:57.061 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:11:57.453 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:12:15.890 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTUzNSwiZXhwIjoxNjgwMDYwNDM1fQ.tqYX254F3I1bsbXzr2HHgNjmRAhJzTOxxLupC_x7YMY
+INFO 2023-03-29T11:12:16.018 usersController - getAllApproverEmail responseMesage - Service Error :  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET @rmId = '94006871'
+           SET @ramId = '3019262'
+           SET @assId =' at line 2, responseCode - 3
+INFO 2023-03-29T11:12:16.295 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTUzNSwiZXhwIjoxNjgwMDYwNDM1fQ.tqYX254F3I1bsbXzr2HHgNjmRAhJzTOxxLupC_x7YMY
+INFO 2023-03-29T11:12:16.300 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTUzNSwiZXhwIjoxNjgwMDYwNDM1fQ.tqYX254F3I1bsbXzr2HHgNjmRAhJzTOxxLupC_x7YMY
+INFO 2023-03-29T11:12:16.381 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T11:12:16.788 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T11:14:39.239 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:14:39.650 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:14:49.403 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:14:49.849 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:14:57.987 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTY5NywiZXhwIjoxNjgwMDYwNTk3fQ.gTc9NymySCcS72ojmC6i6Jv-_WI2QegzFK7TZCT1u7Q
+INFO 2023-03-29T11:14:58.091 usersController - getAllApproverEmail responseMesage - Service Error :  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET @rmId = 94006871
+            SET @ramId = 3019262
+            SET @assId = 1' at line 2, responseCode - 3
+INFO 2023-03-29T11:14:58.410 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTY5NywiZXhwIjoxNjgwMDYwNTk3fQ.gTc9NymySCcS72ojmC6i6Jv-_WI2QegzFK7TZCT1u7Q
+INFO 2023-03-29T11:14:58.415 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTY5NywiZXhwIjoxNjgwMDYwNTk3fQ.gTc9NymySCcS72ojmC6i6Jv-_WI2QegzFK7TZCT1u7Q
+INFO 2023-03-29T11:14:58.495 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T11:14:58.913 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T11:15:51.306 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:15:51.712 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:15:55.469 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTc1NSwiZXhwIjoxNjgwMDYwNjU1fQ.vr9fohiHInQ8b3grDlwrBkjtZCfqZ6kWFGnpjI5JRyc
+INFO 2023-03-29T11:15:55.578 usersController - getAllApproverEmail responseMesage - Service Error :  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET @rmId = "94006871"
+            SET @ramId = "3019262"
+            SET @assId' at line 2, responseCode - 3
+INFO 2023-03-29T11:15:55.834 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTc1NSwiZXhwIjoxNjgwMDYwNjU1fQ.vr9fohiHInQ8b3grDlwrBkjtZCfqZ6kWFGnpjI5JRyc
+INFO 2023-03-29T11:15:55.839 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTc1NSwiZXhwIjoxNjgwMDYwNjU1fQ.vr9fohiHInQ8b3grDlwrBkjtZCfqZ6kWFGnpjI5JRyc
+INFO 2023-03-29T11:15:55.920 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T11:15:56.330 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T11:17:21.311 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTg0MSwiZXhwIjoxNjgwMDYwNzQxfQ.IXFpdKbKNdX0WVDQNKDLSTTZZvnFwaqitb_Ofad1q5Y
+INFO 2023-03-29T11:17:21.412 usersController - getAllApproverEmail responseMesage - Service Error :  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET @rmId = "94006871"
+            SET @ramId = "3019262"
+            SET @assId' at line 2, responseCode - 3
+INFO 2023-03-29T11:17:24.952 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:17:25.306 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:17:31.580 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTg0MSwiZXhwIjoxNjgwMDYwNzQxfQ.IXFpdKbKNdX0WVDQNKDLSTTZZvnFwaqitb_Ofad1q5Y
+INFO 2023-03-29T11:17:31.592 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTg0MSwiZXhwIjoxNjgwMDYwNzQxfQ.IXFpdKbKNdX0WVDQNKDLSTTZZvnFwaqitb_Ofad1q5Y
+INFO 2023-03-29T11:17:31.595 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTg0MSwiZXhwIjoxNjgwMDYwNzQxfQ.IXFpdKbKNdX0WVDQNKDLSTTZZvnFwaqitb_Ofad1q5Y
+INFO 2023-03-29T11:17:31.598 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTg0MSwiZXhwIjoxNjgwMDYwNzQxfQ.IXFpdKbKNdX0WVDQNKDLSTTZZvnFwaqitb_Ofad1q5Y
+INFO 2023-03-29T11:17:31.600 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTg0MSwiZXhwIjoxNjgwMDYwNzQxfQ.IXFpdKbKNdX0WVDQNKDLSTTZZvnFwaqitb_Ofad1q5Y
+INFO 2023-03-29T11:17:31.602 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTg0MSwiZXhwIjoxNjgwMDYwNzQxfQ.IXFpdKbKNdX0WVDQNKDLSTTZZvnFwaqitb_Ofad1q5Y
+INFO 2023-03-29T11:17:32.004 getAllRequestsCash - No data found Rows Length : 0
+INFO 2023-03-29T11:17:32.017 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T11:17:32.020 getAllRequestsCash Rows Length : 1
+INFO 2023-03-29T11:17:32.023 getAllRequestsCash Rows Length : 1
+INFO 2023-03-29T11:17:32.026 getAllRequestsRevFund Rows Length : 2
+INFO 2023-03-29T11:17:32.027 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T11:17:32.165 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTg0MSwiZXhwIjoxNjgwMDYwNzQxfQ.IXFpdKbKNdX0WVDQNKDLSTTZZvnFwaqitb_Ofad1q5Y
+INFO 2023-03-29T11:17:32.167 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTg0MSwiZXhwIjoxNjgwMDYwNzQxfQ.IXFpdKbKNdX0WVDQNKDLSTTZZvnFwaqitb_Ofad1q5Y
+INFO 2023-03-29T11:17:32.248 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T11:17:32.337 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T11:19:20.545 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:19:20.909 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:19:28.573 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTk2OCwiZXhwIjoxNjgwMDYwODY4fQ.MJZGaian-YYdoaymr9_CFDuC0p-spbwyBJu29lIY20M
+INFO 2023-03-29T11:19:28.680 usersController - getAllApproverEmail responseMesage - Service Error :  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET @rmId = '94006871'
+            SET @ramId = '3019262'
+            SET @assId' at line 2, responseCode - 3
+INFO 2023-03-29T11:19:28.945 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTk2OCwiZXhwIjoxNjgwMDYwODY4fQ.MJZGaian-YYdoaymr9_CFDuC0p-spbwyBJu29lIY20M
+INFO 2023-03-29T11:19:28.950 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA1OTk2OCwiZXhwIjoxNjgwMDYwODY4fQ.MJZGaian-YYdoaymr9_CFDuC0p-spbwyBJu29lIY20M
+INFO 2023-03-29T11:19:29.030 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T11:19:29.461 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T11:20:03.971 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:20:04.330 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:20:09.391 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDAwOSwiZXhwIjoxNjgwMDYwOTA5fQ.PhjGsTQc0gg4NfwIosTTSXjYg-202GZzvqLMGBAgmGw
+INFO 2023-03-29T11:20:09.502 usersController - getAllApproverEmail responseMesage - Service Error :  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 5, responseCode - 3
+INFO 2023-03-29T11:20:09.801 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDAwOSwiZXhwIjoxNjgwMDYwOTA5fQ.PhjGsTQc0gg4NfwIosTTSXjYg-202GZzvqLMGBAgmGw
+INFO 2023-03-29T11:20:09.806 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDAwOSwiZXhwIjoxNjgwMDYwOTA5fQ.PhjGsTQc0gg4NfwIosTTSXjYg-202GZzvqLMGBAgmGw
+INFO 2023-03-29T11:20:09.886 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T11:20:10.325 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T11:20:31.208 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:20:31.569 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:20:40.811 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:20:41.207 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:20:45.393 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDA0NSwiZXhwIjoxNjgwMDYwOTQ1fQ.-cwYaWRbAJErWrcefewBGrjxjOW1IELfHO62b6h6swI
+INFO 2023-03-29T11:20:45.543 usersController - getAllApproverEmail responseMesage - Service Error :  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 5, responseCode - 3
+INFO 2023-03-29T11:20:45.861 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDA0NSwiZXhwIjoxNjgwMDYwOTQ1fQ.-cwYaWRbAJErWrcefewBGrjxjOW1IELfHO62b6h6swI
+INFO 2023-03-29T11:20:45.865 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDA0NSwiZXhwIjoxNjgwMDYwOTQ1fQ.-cwYaWRbAJErWrcefewBGrjxjOW1IELfHO62b6h6swI
+INFO 2023-03-29T11:20:45.950 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T11:20:46.376 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T11:21:33.323 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:21:33.696 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:21:43.848 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDEwMywiZXhwIjoxNjgwMDYxMDAzfQ.q4O1ToI6lYLSO0SgMqR20FZZOWKmYZ-HstSHy1ryAX8
+INFO 2023-03-29T11:21:43.962 usersController - getAllApproverEmail responseMesage - Service Error :  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET @rmId = '94006871';
+            SET @ramId = '3019262';
+            SET @ass' at line 2, responseCode - 3
+INFO 2023-03-29T11:21:44.273 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDEwMywiZXhwIjoxNjgwMDYxMDAzfQ.q4O1ToI6lYLSO0SgMqR20FZZOWKmYZ-HstSHy1ryAX8
+INFO 2023-03-29T11:21:44.277 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDEwMywiZXhwIjoxNjgwMDYxMDAzfQ.q4O1ToI6lYLSO0SgMqR20FZZOWKmYZ-HstSHy1ryAX8
+INFO 2023-03-29T11:21:44.383 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T11:21:44.796 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T11:25:40.000 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:25:40.409 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:25:52.802 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDM1MiwiZXhwIjoxNjgwMDYxMjUyfQ.t0_PHo63sdKmpAl5QdT1c-N_Jq_VVq2Eaj1kOtbgGgs
+INFO 2023-03-29T11:25:52.921 usersController - getAllApproverEmail responseMesage - Service Error :  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET @rmId = '94006871'; SET @ramId = '3019262'; SET @assId = '1013127'; SET @vpo' at line 1, responseCode - 3
+INFO 2023-03-29T11:25:53.257 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDM1MiwiZXhwIjoxNjgwMDYxMjUyfQ.t0_PHo63sdKmpAl5QdT1c-N_Jq_VVq2Eaj1kOtbgGgs
+INFO 2023-03-29T11:25:53.262 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDM1MiwiZXhwIjoxNjgwMDYxMjUyfQ.t0_PHo63sdKmpAl5QdT1c-N_Jq_VVq2Eaj1kOtbgGgs
+INFO 2023-03-29T11:25:53.342 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T11:25:53.785 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T11:27:02.141 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:27:02.533 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:27:13.438 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDQzMywiZXhwIjoxNjgwMDYxMzMzfQ.aoeuKRDJTzRwqAKPXMLSVrEGbPHO_szh_amHD6lJVEY
+INFO 2023-03-29T11:27:13.549 usersController - getAllApproverEmail responseMesage - Service Error :  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET @rmId = '94006871' SET @ramId = '3019262' SET @assId = '1013127' SET @vpoId ' at line 1, responseCode - 3
+INFO 2023-03-29T11:27:13.869 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDQzMywiZXhwIjoxNjgwMDYxMzMzfQ.aoeuKRDJTzRwqAKPXMLSVrEGbPHO_szh_amHD6lJVEY
+INFO 2023-03-29T11:27:13.874 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDQzMywiZXhwIjoxNjgwMDYxMzMzfQ.aoeuKRDJTzRwqAKPXMLSVrEGbPHO_szh_amHD6lJVEY
+INFO 2023-03-29T11:27:13.961 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T11:27:14.367 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T11:28:36.305 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDUxNiwiZXhwIjoxNjgwMDYxNDE2fQ.PGLLct0CnTF7H3uiJlZxpCAx44oo15bHxcVmsaGxrVc
+INFO 2023-03-29T11:28:36.418 usersController - getAllApproverEmail responseMesage - Service Error :  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET @rmId = '94006871' SET @ramId = '3019262' SET @assId = '1013127' SET @vpoId ' at line 1, responseCode - 3
+INFO 2023-03-29T11:28:39.944 server.js -  Server listening to port: 3000
+INFO 2023-03-29T11:28:40.356 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T11:28:43.183 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDUxNiwiZXhwIjoxNjgwMDYxNDE2fQ.PGLLct0CnTF7H3uiJlZxpCAx44oo15bHxcVmsaGxrVc
+INFO 2023-03-29T11:28:43.188 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDUxNiwiZXhwIjoxNjgwMDYxNDE2fQ.PGLLct0CnTF7H3uiJlZxpCAx44oo15bHxcVmsaGxrVc
+INFO 2023-03-29T11:28:43.190 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDUxNiwiZXhwIjoxNjgwMDYxNDE2fQ.PGLLct0CnTF7H3uiJlZxpCAx44oo15bHxcVmsaGxrVc
+INFO 2023-03-29T11:28:43.193 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDUxNiwiZXhwIjoxNjgwMDYxNDE2fQ.PGLLct0CnTF7H3uiJlZxpCAx44oo15bHxcVmsaGxrVc
+INFO 2023-03-29T11:28:43.196 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDUxNiwiZXhwIjoxNjgwMDYxNDE2fQ.PGLLct0CnTF7H3uiJlZxpCAx44oo15bHxcVmsaGxrVc
+INFO 2023-03-29T11:28:43.198 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDUxNiwiZXhwIjoxNjgwMDYxNDE2fQ.PGLLct0CnTF7H3uiJlZxpCAx44oo15bHxcVmsaGxrVc
+INFO 2023-03-29T11:28:43.653 getAllRequestsCash - No data found Rows Length : 0
+INFO 2023-03-29T11:28:43.659 getAllRequestsRevFund Rows Length : 2
+INFO 2023-03-29T11:28:43.661 getAllRequestsCash Rows Length : 1
+INFO 2023-03-29T11:28:43.663 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T11:28:43.664 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T11:28:43.665 getAllRequestsCash Rows Length : 1
+INFO 2023-03-29T11:28:44.108 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDUxNiwiZXhwIjoxNjgwMDYxNDE2fQ.PGLLct0CnTF7H3uiJlZxpCAx44oo15bHxcVmsaGxrVc
+INFO 2023-03-29T11:28:44.111 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MDUxNiwiZXhwIjoxNjgwMDYxNDE2fQ.PGLLct0CnTF7H3uiJlZxpCAx44oo15bHxcVmsaGxrVc
+INFO 2023-03-29T11:28:44.193 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T11:28:44.273 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T12:08:14.082 server.js -  Server listening to port: 3000
+INFO 2023-03-29T12:08:14.454 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T12:08:56.523 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MjkzNiwiZXhwIjoxNjgwMDYzODM2fQ.GuETQlcDO-H2IIRb3Fa9-0Oy2fpPZQYFTsftJvu12IA
+INFO 2023-03-29T12:08:56.948 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MjkzNiwiZXhwIjoxNjgwMDYzODM2fQ.GuETQlcDO-H2IIRb3Fa9-0Oy2fpPZQYFTsftJvu12IA
+INFO 2023-03-29T12:08:56.953 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MjkzNiwiZXhwIjoxNjgwMDYzODM2fQ.GuETQlcDO-H2IIRb3Fa9-0Oy2fpPZQYFTsftJvu12IA
+INFO 2023-03-29T12:08:57.054 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T12:08:57.464 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T12:10:01.663 server.js -  Server listening to port: 3000
+INFO 2023-03-29T12:10:02.070 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T12:10:14.203 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MzAxNCwiZXhwIjoxNjgwMDYzOTE0fQ.YdTTKzE8DHc_nj6iTQ9pNJlMkb6DKW_edKwZ33BoOl4
+INFO 2023-03-29T12:10:14.622 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MzAxNCwiZXhwIjoxNjgwMDYzOTE0fQ.YdTTKzE8DHc_nj6iTQ9pNJlMkb6DKW_edKwZ33BoOl4
+INFO 2023-03-29T12:10:14.627 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MzAxNCwiZXhwIjoxNjgwMDYzOTE0fQ.YdTTKzE8DHc_nj6iTQ9pNJlMkb6DKW_edKwZ33BoOl4
+INFO 2023-03-29T12:10:14.710 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T12:10:15.133 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T12:10:33.393 server.js -  Server listening to port: 3000
+INFO 2023-03-29T12:10:33.777 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T12:10:39.975 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MzAzOSwiZXhwIjoxNjgwMDYzOTM5fQ.PhD_8-hW9fB049OfyQCbXgVyhtMSdIQB2dkPuONvm-k
+INFO 2023-03-29T12:10:40.404 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MzAzOSwiZXhwIjoxNjgwMDYzOTM5fQ.PhD_8-hW9fB049OfyQCbXgVyhtMSdIQB2dkPuONvm-k
+INFO 2023-03-29T12:10:40.409 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2MzAzOSwiZXhwIjoxNjgwMDYzOTM5fQ.PhD_8-hW9fB049OfyQCbXgVyhtMSdIQB2dkPuONvm-k
+INFO 2023-03-29T12:10:40.520 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T12:10:40.986 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T13:07:48.262 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:07:48.880 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:07:48.884 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:07:48.961 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T13:07:49.056 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T13:07:56.411 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:07:56.496 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-03-29T13:08:25.994 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:08:26.079 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-03-29T13:09:37.715 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:09:37.931 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-03-29T13:09:43.635 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:09:43.640 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:09:43.718 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T13:09:43.802 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T13:09:56.555 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:09:56.649 OpenRequestController - getRfRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-03-29T13:10:22.010 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:22.015 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:22.017 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:22.019 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:22.021 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:22.025 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:22.097 getAllRequestsCash - No data found Rows Length : 0
+INFO 2023-03-29T13:10:22.098 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:10:22.426 getAllRequestsCash Rows Length : 1
+INFO 2023-03-29T13:10:22.431 getAllRequestsRevFund Rows Length : 2
+INFO 2023-03-29T13:10:22.437 getAllRequestsCash Rows Length : 1
+INFO 2023-03-29T13:10:22.446 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:10:24.307 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:24.395 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-03-29T13:10:28.922 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:28.927 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:28.928 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:28.931 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:28.935 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:28.939 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:29.009 getAllRequestsCash - No data found Rows Length : 0
+INFO 2023-03-29T13:10:29.011 getAllRequestsCash Rows Length : 1
+INFO 2023-03-29T13:10:29.013 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:10:29.014 getAllRequestsRevFund Rows Length : 2
+INFO 2023-03-29T13:10:29.016 getAllRequestsCash Rows Length : 1
+INFO 2023-03-29T13:10:29.027 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:10:31.105 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:31.212 OpenRequestController - getRfRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-03-29T13:10:35.840 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:35.845 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:35.847 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:35.849 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:35.853 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:35.857 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:35.926 getAllRequestsCash - No data found Rows Length : 0
+INFO 2023-03-29T13:10:35.929 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:10:35.931 getAllRequestsCash Rows Length : 1
+INFO 2023-03-29T13:10:35.933 getAllRequestsRevFund Rows Length : 2
+INFO 2023-03-29T13:10:35.935 getAllRequestsCash Rows Length : 1
+INFO 2023-03-29T13:10:35.937 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:10:40.809 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:40.811 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2NjQ2OCwiZXhwIjoxNjgwMDY3MzY4fQ.y6eN0g4uWdQRqCBM1Bnol_AKMWPCytLyXB-UseHccAk
+INFO 2023-03-29T13:10:40.891 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T13:10:40.969 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T13:12:46.207 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA2Njc2NiwiZXhwIjoxNjgwMDY3NjY2fQ.iT-_Ye0oWitHfX7DSwZWbLrx8X_U4Np7TMR5tzFP3oE
+INFO 2023-03-29T13:12:46.521 usersController - getAllApproverEmail responseMesage - Service Error :  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', , 3019262, 1013127, 94002722)' at line 1, responseCode - 3
+INFO 2023-03-29T13:12:46.830 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA2Njc2NiwiZXhwIjoxNjgwMDY3NjY2fQ.iT-_Ye0oWitHfX7DSwZWbLrx8X_U4Np7TMR5tzFP3oE
+INFO 2023-03-29T13:12:46.835 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA2Njc2NiwiZXhwIjoxNjgwMDY3NjY2fQ.iT-_Ye0oWitHfX7DSwZWbLrx8X_U4Np7TMR5tzFP3oE
+INFO 2023-03-29T13:12:46.843 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA2Njc2NiwiZXhwIjoxNjgwMDY3NjY2fQ.iT-_Ye0oWitHfX7DSwZWbLrx8X_U4Np7TMR5tzFP3oE
+INFO 2023-03-29T13:12:46.863 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA2Njc2NiwiZXhwIjoxNjgwMDY3NjY2fQ.iT-_Ye0oWitHfX7DSwZWbLrx8X_U4Np7TMR5tzFP3oE
+INFO 2023-03-29T13:12:46.911 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:12:46.915 getAllRequestsCash Rows Length : 1
+INFO 2023-03-29T13:12:47.853 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA2Njc2NiwiZXhwIjoxNjgwMDY3NjY2fQ.iT-_Ye0oWitHfX7DSwZWbLrx8X_U4Np7TMR5tzFP3oE
+INFO 2023-03-29T13:12:47.861 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA2Njc2NiwiZXhwIjoxNjgwMDY3NjY2fQ.iT-_Ye0oWitHfX7DSwZWbLrx8X_U4Np7TMR5tzFP3oE
+INFO 2023-03-29T13:12:47.947 getAllRequestsForApprovalRevolving - rm_approver Data Retrieved : 0
+INFO 2023-03-29T13:12:48.032 getAllRequestsForApprovalCash - regional_approver Data Retrieved : 0
+INFO 2023-03-29T13:14:02.281 server.js -  Server listening to port: 3000
+INFO 2023-03-29T13:14:02.850 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T13:14:03.107 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA2Njg0MywiZXhwIjoxNjgwMDY3NzQzfQ.eyryYznnbw4m9rURn5sLM4NlP2l7QEwduA4_Ub7zS3A
+INFO 2023-03-29T13:14:03.464 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA2Njg0MywiZXhwIjoxNjgwMDY3NzQzfQ.eyryYznnbw4m9rURn5sLM4NlP2l7QEwduA4_Ub7zS3A
+INFO 2023-03-29T13:14:03.468 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA2Njg0MywiZXhwIjoxNjgwMDY3NzQzfQ.eyryYznnbw4m9rURn5sLM4NlP2l7QEwduA4_Ub7zS3A
+INFO 2023-03-29T13:14:03.476 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA2Njg0MywiZXhwIjoxNjgwMDY3NzQzfQ.eyryYznnbw4m9rURn5sLM4NlP2l7QEwduA4_Ub7zS3A
+INFO 2023-03-29T13:14:03.497 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA2Njg0MywiZXhwIjoxNjgwMDY3NzQzfQ.eyryYznnbw4m9rURn5sLM4NlP2l7QEwduA4_Ub7zS3A
+INFO 2023-03-29T13:14:03.582 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:14:03.913 getAllRequestsCash Rows Length : 1
+INFO 2023-03-29T13:14:04.481 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA2Njg0MywiZXhwIjoxNjgwMDY3NzQzfQ.eyryYznnbw4m9rURn5sLM4NlP2l7QEwduA4_Ub7zS3A
+INFO 2023-03-29T13:14:04.485 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFHVUk5NDAwNjg3MSIsImlhdCI6MTY4MDA2Njg0MywiZXhwIjoxNjgwMDY3NzQzfQ.eyryYznnbw4m9rURn5sLM4NlP2l7QEwduA4_Ub7zS3A
+INFO 2023-03-29T13:14:04.696 getAllRequestsForApprovalRevolving - rm_approver Data Retrieved : 0
+INFO 2023-03-29T13:14:04.973 getAllRequestsForApprovalCash - regional_approver Data Retrieved : 0
+INFO 2023-03-29T13:14:28.345 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2Njg2OCwiZXhwIjoxNjgwMDY3NzY4fQ.-6WbbkqyqpHdepI5E5ZJTiIP557IwjsdUXO1ySNNICw
+INFO 2023-03-29T13:14:28.793 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2Njg2OCwiZXhwIjoxNjgwMDY3NzY4fQ.-6WbbkqyqpHdepI5E5ZJTiIP557IwjsdUXO1ySNNICw
+INFO 2023-03-29T13:14:28.798 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2Njg2OCwiZXhwIjoxNjgwMDY3NzY4fQ.-6WbbkqyqpHdepI5E5ZJTiIP557IwjsdUXO1ySNNICw
+INFO 2023-03-29T13:14:28.905 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T13:14:28.985 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T13:14:54.034 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:14:54.633 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:14:54.637 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:14:54.646 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:14:54.651 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:14:54.716 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:14:54.719 getAllRequestsCash Rows Length : 3
+INFO 2023-03-29T13:14:55.646 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:14:55.651 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:14:55.737 getAllRequestsForApprovalCash - area_approver Data Retrieved : 34
+INFO 2023-03-29T13:14:55.879 getAllRequestsForApprovalRevolving - am_approver Data Retrieved : 3
+INFO 2023-03-29T13:15:22.863 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:15:22.945 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-03-29T13:15:27.790 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:15:27.795 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:15:27.802 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:15:27.805 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:15:27.873 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:15:27.877 getAllRequestsCash Rows Length : 3
+INFO 2023-03-29T13:15:28.800 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:15:28.803 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:15:28.882 getAllRequestsForApprovalCash - area_approver Data Retrieved : 34
+INFO 2023-03-29T13:15:28.884 getAllRequestsForApprovalRevolving - am_approver Data Retrieved : 3
+INFO 2023-03-29T13:19:59.980 server.js -  Server listening to port: 3000
+INFO 2023-03-29T13:20:00.468 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T13:21:30.647 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:21:30.659 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:21:30.662 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:21:30.686 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:21:31.174 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:21:31.198 getAllRequestsCash Rows Length : 3
+INFO 2023-03-29T13:21:32.499 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:21:32.502 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:21:32.586 getAllRequestsForApprovalCash - area_approver Data Retrieved : 34
+INFO 2023-03-29T13:21:32.594 getAllRequestsForApprovalRevolving - am_approver Data Retrieved : 3
+INFO 2023-03-29T13:21:43.691 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:21:43.697 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:21:43.709 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:21:43.714 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:21:43.776 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:21:43.785 getAllRequestsCash Rows Length : 3
+INFO 2023-03-29T13:21:45.505 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:21:45.509 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:21:45.599 getAllRequestsForApprovalCash - area_approver Data Retrieved : 34
+INFO 2023-03-29T13:21:45.601 getAllRequestsForApprovalRevolving - am_approver Data Retrieved : 3
+INFO 2023-03-29T13:22:21.683 server.js -  Server listening to port: 3000
+INFO 2023-03-29T13:22:23.239 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T13:24:59.538 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:24:59.548 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:24:59.551 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:24:59.571 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:24:59.995 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:25:00.011 getAllRequestsCash Rows Length : 3
+INFO 2023-03-29T13:25:01.499 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:25:01.501 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:25:01.591 getAllRequestsForApprovalCash - area_approver Data Retrieved : 34
+INFO 2023-03-29T13:25:01.593 getAllRequestsForApprovalRevolving - am_approver Data Retrieved : 3
+INFO 2023-03-29T13:25:21.534 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:25:21.539 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:25:21.550 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:25:21.555 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:25:21.619 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:25:21.623 getAllRequestsCash Rows Length : 3
+INFO 2023-03-29T13:25:23.507 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:25:23.513 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:25:23.595 getAllRequestsForApprovalCash - area_approver Data Retrieved : 34
+INFO 2023-03-29T13:25:23.598 getAllRequestsForApprovalRevolving - am_approver Data Retrieved : 3
+INFO 2023-03-29T13:25:44.645 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:25:44.648 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:25:44.657 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:25:44.663 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:25:44.729 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:25:44.736 getAllRequestsCash Rows Length : 3
+INFO 2023-03-29T13:25:45.665 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:25:45.675 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2Njg5NCwiZXhwIjoxNjgwMDY3Nzk0fQ.p9EYCzhRS5Td_XGcKfqjL76SbKGJqIx-llwLPFPIHBA
+INFO 2023-03-29T13:25:45.750 getAllRequestsForApprovalCash - area_approver Data Retrieved : 34
+INFO 2023-03-29T13:25:45.782 getAllRequestsForApprovalRevolving - am_approver Data Retrieved : 3
+INFO 2023-03-29T13:25:57.570 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:25:58.186 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:25:58.190 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:25:58.199 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:25:58.203 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:25:58.271 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:25:58.273 getAllRequestsCash Rows Length : 3
+INFO 2023-03-29T13:25:59.200 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:25:59.206 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:25:59.480 getAllRequestsForApprovalRevolving - am_approver Data Retrieved : 3
+INFO 2023-03-29T13:25:59.483 getAllRequestsForApprovalCash - area_approver Data Retrieved : 34
+INFO 2023-03-29T13:28:42.551 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:28:42.561 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:28:42.614 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:28:42.619 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:28:42.631 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:28:42.652 getAllRequestsCash Rows Length : 3
+INFO 2023-03-29T13:28:44.506 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:28:44.521 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:28:44.601 getAllRequestsForApprovalCash - area_approver Data Retrieved : 34
+INFO 2023-03-29T13:28:44.633 getAllRequestsForApprovalRevolving - am_approver Data Retrieved : 3
+INFO 2023-03-29T13:29:59.204 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:29:59.210 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:29:59.227 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:29:59.233 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:29:59.284 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:29:59.293 getAllRequestsCash Rows Length : 3
+INFO 2023-03-29T13:30:00.524 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:30:00.525 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:30:00.640 getAllRequestsForApprovalRevolving - am_approver Data Retrieved : 3
+INFO 2023-03-29T13:30:00.646 getAllRequestsForApprovalCash - area_approver Data Retrieved : 34
+INFO 2023-03-29T13:30:10.532 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:30:10.537 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:30:10.551 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:30:10.555 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:30:10.627 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:30:10.628 getAllRequestsCash Rows Length : 3
+INFO 2023-03-29T13:30:12.499 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:30:12.506 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:30:12.605 getAllRequestsForApprovalCash - area_approver Data Retrieved : 34
+INFO 2023-03-29T13:30:12.607 getAllRequestsForApprovalRevolving - am_approver Data Retrieved : 3
+INFO 2023-03-29T13:40:48.543 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:40:48.598 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:40:48.626 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:40:48.630 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:40:48.633 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:40:48.678 getAllRequestsCash Rows Length : 3
+INFO 2023-03-29T13:40:50.498 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:40:50.501 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2NzU1NywiZXhwIjoxNjgwMDY4NDU3fQ.JlpXhRFFFnq74QEIbWigwpOI5bXn0VL6W85sND41Ds0
+INFO 2023-03-29T13:40:50.581 getAllRequestsForApprovalCash - area_approver Data Retrieved : 34
+INFO 2023-03-29T13:40:50.592 getAllRequestsForApprovalRevolving - am_approver Data Retrieved : 3
+INFO 2023-03-29T13:41:07.531 server.js -  Server listening to port: 3000
+INFO 2023-03-29T13:41:08.024 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T13:44:08.372 server.js -  Server listening to port: 3000
+INFO 2023-03-29T13:44:08.760 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T13:45:11.989 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2ODcxMSwiZXhwIjoxNjgwMDY5NjExfQ.e3DS5_fSBKOEoRqeHHp401RCY3WmbPe-TpFO4oGd_p4
+INFO 2023-03-29T13:45:28.844 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2ODcyOCwiZXhwIjoxNjgwMDY5NjI4fQ.aBsUOu2yf_4DhJwM2qNbPMMXqNukiLhawkUOG6Z-W5c
+INFO 2023-03-29T13:46:18.707 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2ODc3OCwiZXhwIjoxNjgwMDY5Njc4fQ.9PNO6nml0FS5EA3W8Lni4GfLtg6x8IU496Hv9r5jVjY
+INFO 2023-03-29T13:47:05.474 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2ODgyNSwiZXhwIjoxNjgwMDY5NzI1fQ.onC-2smvbySImjV-NvngtVKGWmCIoKXy5tqV6KXZWTA
+INFO 2023-03-29T13:47:06.232 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2ODgyNSwiZXhwIjoxNjgwMDY5NzI1fQ.onC-2smvbySImjV-NvngtVKGWmCIoKXy5tqV6KXZWTA
+INFO 2023-03-29T13:47:06.236 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2ODgyNSwiZXhwIjoxNjgwMDY5NzI1fQ.onC-2smvbySImjV-NvngtVKGWmCIoKXy5tqV6KXZWTA
+INFO 2023-03-29T13:47:06.246 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2ODgyNSwiZXhwIjoxNjgwMDY5NzI1fQ.onC-2smvbySImjV-NvngtVKGWmCIoKXy5tqV6KXZWTA
+INFO 2023-03-29T13:47:06.269 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2ODgyNSwiZXhwIjoxNjgwMDY5NzI1fQ.onC-2smvbySImjV-NvngtVKGWmCIoKXy5tqV6KXZWTA
+INFO 2023-03-29T13:47:06.327 getAllRequestsRevFund - No data found Rows Length : 0
+INFO 2023-03-29T13:47:06.828 getAllRequestsCash Rows Length : 3
+INFO 2023-03-29T13:47:07.248 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2ODgyNSwiZXhwIjoxNjgwMDY5NzI1fQ.onC-2smvbySImjV-NvngtVKGWmCIoKXy5tqV6KXZWTA
+INFO 2023-03-29T13:47:07.259 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdBWU8wMjAxMzM1NyIsImlhdCI6MTY4MDA2ODgyNSwiZXhwIjoxNjgwMDY5NzI1fQ.onC-2smvbySImjV-NvngtVKGWmCIoKXy5tqV6KXZWTA
+INFO 2023-03-29T13:47:07.353 getAllRequestsForApprovalCash - area_approver Data Retrieved : 34
+INFO 2023-03-29T13:47:07.389 getAllRequestsForApprovalRevolving - am_approver Data Retrieved : 3
+INFO 2023-03-29T13:47:46.938 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2ODg2NiwiZXhwIjoxNjgwMDY5NzY2fQ.lN8JNdvv3uHHf6QpnCDd6SC0HEZF1UTGfYtPGXg3AVw
+INFO 2023-03-29T13:47:47.482 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2ODg2NiwiZXhwIjoxNjgwMDY5NzY2fQ.lN8JNdvv3uHHf6QpnCDd6SC0HEZF1UTGfYtPGXg3AVw
+INFO 2023-03-29T13:47:47.486 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2ODg2NiwiZXhwIjoxNjgwMDY5NzY2fQ.lN8JNdvv3uHHf6QpnCDd6SC0HEZF1UTGfYtPGXg3AVw
+INFO 2023-03-29T13:47:47.562 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T13:47:47.646 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T13:48:26.950 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2ODkwNiwiZXhwIjoxNjgwMDY5ODA2fQ.YEt9rTw9j7rmEKSCxkXePTiiuBCXMKQLB7B61nVO8e4
+INFO 2023-03-29T13:51:31.197 server.js -  Server listening to port: 3000
+INFO 2023-03-29T13:51:31.814 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T13:52:27.478 server.js -  Server listening to port: 3000
+INFO 2023-03-29T13:52:27.861 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T14:00:49.976 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2OTY0OSwiZXhwIjoxNjgwMDcwNTQ5fQ.kz26tm-ZMThUB9MnOVFYzD9Ktty6kc82XxWS5SByZdE
+INFO 2023-03-29T14:00:57.260 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2OTY1NywiZXhwIjoxNjgwMDcwNTU3fQ.EgviEZQeAMlQK4sfTyzjy627Cla2-v9ME5iCPfnlRjA
+INFO 2023-03-29T14:01:15.888 server.js -  Server listening to port: 3000
+INFO 2023-03-29T14:01:16.584 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T14:01:21.574 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2OTY4MSwiZXhwIjoxNjgwMDcwNTgxfQ.ARzkwiIhh6lap79hGQuFZq1Ru4P7xWOoh2n7wDk8yl0
+INFO 2023-03-29T14:02:37.229 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA2OTc1NywiZXhwIjoxNjgwMDcwNjU3fQ.bbxxrvz3UvFvtBFm8-aMlVNsa7J43HTOXXS0r7_jBsg
+INFO 2023-03-29T14:39:07.472 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MTk0NywiZXhwIjoxNjgwMDcyODQ3fQ.mRu5qvRx5F2WW0Yg0TXYyTdTv3I6ZStzg97zNI5lGds
+INFO 2023-03-29T14:39:12.293 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MTk1MiwiZXhwIjoxNjgwMDcyODUyfQ.jFbIjXYKANo5b610tpiAeuHLe7YJVt7-xVAcaVPrBH8
+INFO 2023-03-29T14:39:33.474 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MTk3MywiZXhwIjoxNjgwMDcyODczfQ.TsGSFF56OxAER_fRHdzOCTYrwJN7lxdVFaA5hxjpiF4
+INFO 2023-03-29T14:42:42.080 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MjE2MiwiZXhwIjoxNjgwMDczMDYyfQ.kcqND24a3EJoKtkk9BMK7lx1P14IYwGhrAcSPI_Tilo
+INFO 2023-03-29T14:42:50.353 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MjE3MCwiZXhwIjoxNjgwMDczMDcwfQ.--lD4AIpG2JokPRrSPnGIY8TmVGx-_rb82MRzNfjX7E
+INFO 2023-03-29T14:44:48.994 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MjI4OCwiZXhwIjoxNjgwMDczMTg4fQ.k4OMHdmI-001cm98XRRA7JIuy-XY54ZYo7E8t7B8mOM
+INFO 2023-03-29T14:46:01.784 server.js -  Server listening to port: 3000
+FATAL 2023-03-29T14:46:01.790 10.4.9.186 - branch_request - Branch Connection Failed. Error: connect ETIMEDOUT
+INFO 2023-03-29T14:46:16.628 server.js -  Server listening to port: 3000
+INFO 2023-03-29T14:46:17.150 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T14:46:22.423 server.js -  Server listening to port: 3000
+INFO 2023-03-29T14:46:22.809 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T14:48:17.620 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MjQ5NywiZXhwIjoxNjgwMDczMzk3fQ.d1FQsgBao3sY-40yP3oRbqtFsWTWZBqpRW5lXcz-PK4
+INFO 2023-03-29T14:49:41.698 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MjU4MSwiZXhwIjoxNjgwMDczNDgxfQ.HXmqXzbeqMBBL0u_ZMhWjgFL9elENRtiAGBUvuEbJLc
+INFO 2023-03-29T14:49:49.902 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MjU4OSwiZXhwIjoxNjgwMDczNDg5fQ.tcfsiyiHyAA3vd_pQL1jP5AmH80C2K6aDVUtUQxgH0g
+INFO 2023-03-29T14:50:15.684 server.js -  Server listening to port: 3000
+INFO 2023-03-29T14:50:16.038 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T14:52:04.819 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MjcyNCwiZXhwIjoxNjgwMDczNjI0fQ.TwxDWPyf-5TB-_cKaVxL3NUny1r4sPq-zu0JzVGmToA
+INFO 2023-03-29T14:55:15.802 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MjkxNSwiZXhwIjoxNjgwMDczODE1fQ.r2T5mRpBGb9cRJnSqYGJS3meQyXCLA8US1g0U7D3-kI
+INFO 2023-03-29T14:55:16.378 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MjkxNSwiZXhwIjoxNjgwMDczODE1fQ.r2T5mRpBGb9cRJnSqYGJS3meQyXCLA8US1g0U7D3-kI
+INFO 2023-03-29T14:55:16.381 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MjkxNSwiZXhwIjoxNjgwMDczODE1fQ.r2T5mRpBGb9cRJnSqYGJS3meQyXCLA8US1g0U7D3-kI
+INFO 2023-03-29T14:55:16.473 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T14:55:16.892 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T14:55:22.990 requestController - getMaxId -  row: 1
+INFO 2023-03-29T14:57:12.686 requestController - getMaxId -  row: 1
+INFO 2023-03-29T15:00:26.812 requestController - getMaxId -  row: 1
+INFO 2023-03-29T15:02:32.741 requestController - getMaxId -  row: 1
+INFO 2023-03-29T15:02:32.926 requestController - getMaxId -  row: 1
+INFO 2023-03-29T15:02:41.752 requestController - getMaxId -  row: 1
+INFO 2023-03-29T15:03:11.122 requestController - getMaxId -  row: 1
+INFO 2023-03-29T15:03:22.919 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MzQwMiwiZXhwIjoxNjgwMDc0MzAyfQ.DaByrrkIFnyhu8BMSM7Yfi06TRwLbB4ezdM-oSCcjSw
+INFO 2023-03-29T15:03:23.509 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MzQwMiwiZXhwIjoxNjgwMDc0MzAyfQ.DaByrrkIFnyhu8BMSM7Yfi06TRwLbB4ezdM-oSCcjSw
+INFO 2023-03-29T15:03:23.513 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MzQwMiwiZXhwIjoxNjgwMDc0MzAyfQ.DaByrrkIFnyhu8BMSM7Yfi06TRwLbB4ezdM-oSCcjSw
+INFO 2023-03-29T15:03:23.589 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T15:03:23.678 getAllRequestsCash Rows Length : 36
+INFO 2023-03-29T15:03:28.442 requestController - getMaxId -  row: 1
+INFO 2023-03-29T15:04:17.233 requestController - getMaxId -  row: 1
+INFO 2023-03-29T15:04:17.390 requestController - getMaxId -  row: 1
+INFO 2023-03-29T15:04:55.712 requestController - getMaxId -  row: 1
+INFO 2023-03-29T15:05:48.674 requestController - getMaxId -  row: 1
+INFO 2023-03-29T15:10:17.981 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:10:18.365 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:11:44.163 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:11:44.537 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:12:03.849 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MzQwMiwiZXhwIjoxNjgwMDc0MzAyfQ.DaByrrkIFnyhu8BMSM7Yfi06TRwLbB4ezdM-oSCcjSw
+INFO 2023-03-29T15:12:04.453 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-29T15:12:07.732 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-29T15:12:10.380 OpenRequestController - postCashRequest - SendEmailNotificationCashApproval responseMesage - Success: [object Object], responseCode - 0
+INFO 2023-03-29T15:12:13.917 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MzQwMiwiZXhwIjoxNjgwMDc0MzAyfQ.DaByrrkIFnyhu8BMSM7Yfi06TRwLbB4ezdM-oSCcjSw
+INFO 2023-03-29T15:12:14.017 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-03-29T15:12:19.244 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MzQwMiwiZXhwIjoxNjgwMDc0MzAyfQ.DaByrrkIFnyhu8BMSM7Yfi06TRwLbB4ezdM-oSCcjSw
+INFO 2023-03-29T15:12:19.249 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MzQwMiwiZXhwIjoxNjgwMDc0MzAyfQ.DaByrrkIFnyhu8BMSM7Yfi06TRwLbB4ezdM-oSCcjSw
+INFO 2023-03-29T15:12:19.343 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-29T15:12:19.766 getAllRequestsCash Rows Length : 37
+INFO 2023-03-29T15:25:02.548 server.js -  Server listening to port: 3000
+FATAL 2023-03-29T15:25:06.254 10.4.9.186 - branch_request - Branch Connection Failed. Error: connect ETIMEDOUT
+INFO 2023-03-29T15:26:21.982 server.js -  No request to follow up - 2013357
+INFO 2023-03-29T15:26:38.528 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:26:38.937 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:26:42.179 10.4.9.186 - branch_request - Request to follow up - CA-230313-000021
+INFO 2023-03-29T15:26:42.179 10.4.9.186 - branch_request - Request to follow up - CA-230315-000038
+INFO 2023-03-29T15:27:46.616 10.4.9.186 - branch_request - Request to follow up - CA-230315-000038
+INFO 2023-03-29T15:31:06.266 10.4.9.186 - branch_request - Request to follow up - CA-230313-000021
+INFO 2023-03-29T15:31:06.266 10.4.9.186 - branch_request - Request to follow up - CA-230315-000038
+INFO 2023-03-29T15:31:56.216 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:31:56.712 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:31:58.259 10.4.9.186 - branch_request - Request to follow up - CA-230313-000021
+INFO 2023-03-29T15:31:58.259 10.4.9.186 - branch_request - Request to follow up - CA-230315-000038
+INFO 2023-03-29T15:32:22.490 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:32:22.962 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:32:24.812 10.4.9.186 - branch_request - Request to follow up - CA-230313-000021
+INFO 2023-03-29T15:32:24.813 10.4.9.186 - branch_request - Request to follow up - CA-230315-000038
+INFO 2023-03-29T15:32:38.699 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:32:39.135 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:32:39.495 10.4.9.186 - branch_request - Request to follow up - CA-230313-000021
+INFO 2023-03-29T15:32:39.496 10.4.9.186 - branch_request - Request to follow up - CA-230315-000038
+INFO 2023-03-29T15:38:17.635 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:38:18.053 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:39:44.639 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:39:45.171 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:40:10.440 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:40:11.032 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:40:11.975 10.4.9.186 - branch_request - Request to follow up - CA-230313-000021
+INFO 2023-03-29T15:40:11.976 10.4.9.186 - branch_request - Request to follow up - CA-230315-000038
+INFO 2023-03-29T15:41:20.424 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:41:20.968 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:41:30.907 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:41:31.392 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:42:22.958 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:42:23.479 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:48:41.643 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:48:42.112 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:49:10.940 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:49:11.365 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:49:30.924 10.4.9.186 - branch_request - Request to follow up - CA-230313-000021
+INFO 2023-03-29T15:49:30.925 10.4.9.186 - branch_request - Request to follow up - CA-230315-000038
+INFO 2023-03-29T15:49:30.990 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-29T15:49:30.991 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-29T15:49:34.221 mailConfig - setTransporter -  Follow up sent - CA-230315-000038, jonalyn.mobilla@gmail.com
+INFO 2023-03-29T15:49:34.336 mailConfig - setTransporter -  Follow up sent - CA-230313-000021, jonalyn.mobilla@gmail.com
+INFO 2023-03-29T15:51:29.962 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:51:30.418 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:53:30.576 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:53:30.997 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:53:35.921 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:53:36.607 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:54:12.766 10.4.9.186 - branch_request - No request to follow up - 2013357
+INFO 2023-03-29T15:56:16.209 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:56:16.625 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:57:20.698 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:57:21.141 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:58:13.349 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:58:13.839 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T15:59:08.782 server.js -  Server listening to port: 3000
+INFO 2023-03-29T15:59:09.307 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T16:11:35.086 server.js -  Server listening to port: 3000
+INFO 2023-03-29T16:11:35.451 10.4.9.186 - branch_request - Branch Connected.
+FATAL 2023-03-29T16:12:02.642 auth - verifyToken -  Unauthorized. Invalid Token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MzQwMiwiZXhwIjoxNjgwMDc0MzAyfQ.DaByrrkIFnyhu8BMSM7Yfi06TRwLbB4ezdM-oSCcjSw
+FATAL 2023-03-29T16:12:02.652 auth - verifyToken -  Unauthorized. Invalid Token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDA3MzQwMiwiZXhwIjoxNjgwMDc0MzAyfQ.DaByrrkIFnyhu8BMSM7Yfi06TRwLbB4ezdM-oSCcjSw
+INFO 2023-03-29T16:19:17.437 server.js -  Server listening to port: 3000
+INFO 2023-03-29T16:19:17.891 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-29T16:21:21.563 server.js -  Server listening to port: 3000
+INFO 2023-03-29T16:21:22.024 10.4.9.186 - branch_request - Branch Connected.

@@ -1,0 +1,8 @@
+FATAL 2023-04-18T09:56:06.215 10.4.9.186 - branch_request - Branch Connection Failed. Error: connect ETIMEDOUT
+INFO 2023-04-18T09:56:06.205 cashRequest.js - Run Cron Job Job for Cash Advance is running: true , Job for Revolving Fund is running: true
+INFO 2023-04-18T09:56:06.211 cashRequest.js -  Server listening to port: 3000
+INFO 2023-04-18T10:01:10.813 userLogin Service error - Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Sariaya 2 AND zone IN ('LUZON', 'NCR', 'LNCR', 'SHOWROOM')' at line 1
+INFO 2023-04-18T10:03:21.013 userLogin Service error - Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Sariaya 2 AND zone IN ('LUZON', 'NCR', 'LNCR', 'SHOWROOM')' at line 1
+INFO 2023-04-18T10:03:43.990 userLogin Service error - Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Sariaya 2 AND zone IN ('LUZON', 'NCR', 'LNCR', 'SHOWROOM')' at line 1
+INFO 2023-04-18T10:04:05.182 userLogin Service error - Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Sariaya 2 AND zone IN ('LUZON', 'NCR', 'LNCR', 'SHOWROOM')' at line 1
+INFO 2023-04-18T10:10:31.132 userLogin Service error - Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Sariaya 2 AND zone IN ('LUZON', 'NCR', 'LNCR', 'SHOWROOM')' at line 1

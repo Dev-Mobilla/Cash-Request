@@ -1,0 +1,20 @@
+FATAL 2023-03-21T08:49:48.227 10.4.9.186 - branch_request - Branch Connection Failed. Error: connect ETIMEDOUT
+INFO 2023-03-21T08:49:48.222 server.js -  Server listening to port: 3000
+INFO 2023-03-21T09:05:17.201 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY3OTM2MDcxNywiZXhwIjoxNjc5MzYxNjE3fQ.v1XWEvHLWEtgqu0ci1gkPVWo9MQm0xoTZV4uQ_4jlEY
+INFO 2023-03-21T09:05:17.491 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY3OTM2MDcxNywiZXhwIjoxNjc5MzYxNjE3fQ.v1XWEvHLWEtgqu0ci1gkPVWo9MQm0xoTZV4uQ_4jlEY
+INFO 2023-03-21T09:05:17.496 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY3OTM2MDcxNywiZXhwIjoxNjc5MzYxNjE3fQ.v1XWEvHLWEtgqu0ci1gkPVWo9MQm0xoTZV4uQ_4jlEY
+INFO 2023-03-21T09:05:17.576 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-21T09:05:17.985 getAllRequestsCash Rows Length : 36
+INFO 2023-03-21T09:07:33.160 server.js -  Server listening to port: 3000
+INFO 2023-03-21T09:07:33.513 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-21T09:08:05.382 server.js -  Server listening to port: 3000
+INFO 2023-03-21T09:08:05.758 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-21T09:34:16.171 server.js -  Server listening to port: 3000
+INFO 2023-03-21T09:34:16.573 10.4.9.186 - branch_request - Branch Connected.
+FATAL 2023-03-21T14:34:21.693 auth - verifyToken -  Unauthorized. Invalid Token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY3OTM2MDcxNywiZXhwIjoxNjc5MzYxNjE3fQ.v1XWEvHLWEtgqu0ci1gkPVWo9MQm0xoTZV4uQ_4jlEY
+FATAL 2023-03-21T14:34:21.705 auth - verifyToken -  Unauthorized. Invalid Token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY3OTM2MDcxNywiZXhwIjoxNjc5MzYxNjE3fQ.v1XWEvHLWEtgqu0ci1gkPVWo9MQm0xoTZV4uQ_4jlEY
+INFO 2023-03-21T15:16:16.616 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY3OTM4Mjk3NiwiZXhwIjoxNjc5MzgzODc2fQ.d-WyOozlTMCt5Q3_YAacmJMZtnQsQOyexWBtpIhSYak
+INFO 2023-03-21T15:16:16.875 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY3OTM4Mjk3NiwiZXhwIjoxNjc5MzgzODc2fQ.d-WyOozlTMCt5Q3_YAacmJMZtnQsQOyexWBtpIhSYak
+INFO 2023-03-21T15:16:16.882 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY3OTM4Mjk3NiwiZXhwIjoxNjc5MzgzODc2fQ.d-WyOozlTMCt5Q3_YAacmJMZtnQsQOyexWBtpIhSYak
+INFO 2023-03-21T15:16:16.991 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-21T15:16:17.412 getAllRequestsCash Rows Length : 36

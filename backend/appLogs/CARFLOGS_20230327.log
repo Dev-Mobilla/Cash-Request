@@ -1,0 +1,113 @@
+INFO 2023-03-27T10:44:24.164 server.js -  Server listening to port: 3000
+FATAL 2023-03-27T10:44:24.169 10.4.9.186 - branch_request - Branch Connection Failed. Error: connect ETIMEDOUT
+INFO 2023-03-27T13:55:15.189 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY3OTg5NjUxNSwiZXhwIjoxNjc5ODk3NDE1fQ.a95y6ZwzcnmH7QWepI5_TT6sbqt0MxgbMSm9YfOizhE
+INFO 2023-03-27T13:55:15.447 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY3OTg5NjUxNSwiZXhwIjoxNjc5ODk3NDE1fQ.a95y6ZwzcnmH7QWepI5_TT6sbqt0MxgbMSm9YfOizhE
+INFO 2023-03-27T13:55:15.454 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY3OTg5NjUxNSwiZXhwIjoxNjc5ODk3NDE1fQ.a95y6ZwzcnmH7QWepI5_TT6sbqt0MxgbMSm9YfOizhE
+INFO 2023-03-27T13:55:15.553 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-27T13:55:15.996 getAllRequestsCash Rows Length : 36
+INFO 2023-03-27T13:55:29.165 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY3OTg5NjUxNSwiZXhwIjoxNjc5ODk3NDE1fQ.a95y6ZwzcnmH7QWepI5_TT6sbqt0MxgbMSm9YfOizhE
+INFO 2023-03-27T13:55:29.255 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-03-27T13:55:33.277 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY3OTg5NjUxNSwiZXhwIjoxNjc5ODk3NDE1fQ.a95y6ZwzcnmH7QWepI5_TT6sbqt0MxgbMSm9YfOizhE
+INFO 2023-03-27T13:55:33.280 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY3OTg5NjUxNSwiZXhwIjoxNjc5ODk3NDE1fQ.a95y6ZwzcnmH7QWepI5_TT6sbqt0MxgbMSm9YfOizhE
+INFO 2023-03-27T13:55:33.367 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-27T13:55:33.445 getAllRequestsCash Rows Length : 36
+INFO 2023-03-27T13:55:35.412 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY3OTg5NjUxNSwiZXhwIjoxNjc5ODk3NDE1fQ.a95y6ZwzcnmH7QWepI5_TT6sbqt0MxgbMSm9YfOizhE
+INFO 2023-03-27T13:55:35.511 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-03-27T13:55:39.699 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY3OTg5NjUxNSwiZXhwIjoxNjc5ODk3NDE1fQ.a95y6ZwzcnmH7QWepI5_TT6sbqt0MxgbMSm9YfOizhE
+INFO 2023-03-27T13:55:39.703 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY3OTg5NjUxNSwiZXhwIjoxNjc5ODk3NDE1fQ.a95y6ZwzcnmH7QWepI5_TT6sbqt0MxgbMSm9YfOizhE
+INFO 2023-03-27T13:55:39.795 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-27T13:55:39.883 getAllRequestsCash Rows Length : 36
+INFO 2023-03-27T14:00:54.192 server.js -  Server listening to port: 3000
+FATAL 2023-03-27T14:00:54.197 10.4.9.186 - branch_request - Branch Connection Failed. Error: connect ETIMEDOUT
+INFO 2023-03-27T14:02:19.535 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:02:20.043 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:03:09.445 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:03:09.914 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:04:14.824 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:04:15.236 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:06:44.250 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:06:44.660 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:09:59.213 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:09:59.610 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:11:04.684 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:11:05.082 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:11:42.576 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:11:43.070 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:12:16.397 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:12:16.793 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:12:46.338 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:12:46.783 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:13:36.122 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:13:36.544 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:15:36.183 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:15:38.293 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:16:04.967 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:16:05.519 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:18:11.776 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:18:12.208 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:18:34.949 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:18:35.379 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:18:59.655 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:19:00.063 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:19:21.127 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:19:21.601 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:20:22.677 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:20:23.071 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:29:49.086 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:29:49.565 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:30:59.246 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:30:59.672 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:31:27.503 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:31:27.952 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:35:12.133 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:35:12.543 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:36:11.751 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:36:12.179 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:38:17.418 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:38:17.847 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T14:47:04.281 server.js -  Server listening to port: 3000
+INFO 2023-03-27T14:47:04.665 10.4.9.186 - branch_request - Branch Connected.
+FATAL 2023-03-27T15:06:43.115 10.4.9.186 - branch_request - Branch Connection Failed. Error: connect ETIMEDOUT
+INFO 2023-03-27T15:05:58.005 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:06:54.097 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:06:54.519 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:07:19.242 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:07:19.659 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:07:54.709 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:07:55.737 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:08:11.177 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:08:11.590 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:13:19.575 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:13:20.044 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:15:35.737 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:15:36.295 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:16:14.069 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:16:14.488 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:16:30.766 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:16:31.182 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:16:39.024 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:16:39.449 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:17:05.321 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:17:05.719 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:17:45.345 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:17:45.766 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:21:46.865 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:21:47.322 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:22:29.480 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:22:29.913 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:23:49.290 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:23:49.683 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:24:10.107 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:24:10.516 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:24:41.518 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:24:41.995 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:26:11.941 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:26:12.358 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:27:04.943 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:27:05.386 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:27:53.625 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:27:54.084 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:28:32.001 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:28:32.420 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-27T15:28:46.745 server.js -  Server listening to port: 3000
+INFO 2023-03-27T15:28:47.115 10.4.9.186 - branch_request - Branch Connected.

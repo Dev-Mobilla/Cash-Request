@@ -1,0 +1,853 @@
+INFO 2023-03-30T08:46:13.932 server.js -  Server listening to port: 3000
+FATAL 2023-03-30T08:46:13.939 10.4.9.186 - branch_request - Branch Connection Failed. Error: connect ETIMEDOUT
+INFO 2023-03-30T08:53:23.449 server.js -  Server listening to port: 3000
+INFO 2023-03-30T08:53:24.079 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T08:54:19.076 server.js -  Server listening to port: 3000
+INFO 2023-03-30T08:54:20.377 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:02:17.709 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:02:18.117 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:02:43.112 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:02:43.510 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:08:35.016 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:08:39.884 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:08:40.507 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:09:09.474 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:09:11.038 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:09:33.236 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:09:33.868 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:10:43.838 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:10:44.234 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:11:31.261 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:11:32.125 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:12:14.157 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:12:14.585 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:12:27.280 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:12:28.231 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:14:53.013 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:14:53.447 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:14:56.888 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:14:57.269 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:14:58.187 10.4.9.186 - branch_request - No request to follow up - undefined
+INFO 2023-03-30T09:15:58.615 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:15:59.460 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:16:03.835 10.4.9.186 - branch_request - No request to follow up - undefined
+INFO 2023-03-30T09:16:25.865 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:16:26.782 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:16:34.960 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:16:35.369 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:16:37.259 10.4.9.186 - branch_request - No request to follow up - undefined
+INFO 2023-03-30T09:17:09.344 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:17:09.761 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:17:13.146 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:17:13.556 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:17:22.770 10.4.9.186 - branch_request - No request to follow up - undefined
+INFO 2023-03-30T09:18:07.790 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:18:08.183 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:18:11.913 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:18:12.471 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:18:13.618 10.4.9.186 - branch_request - No request to follow up - undefined
+INFO 2023-03-30T09:18:48.551 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:18:48.965 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:18:49.903 10.4.9.186 - branch_request - No request to follow up - undefined
+INFO 2023-03-30T09:19:19.910 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:19:20.349 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:19:21.341 10.4.9.186 - branch_request - No request to follow up - undefined
+INFO 2023-03-30T09:19:47.741 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:19:48.407 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:19:53.815 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:19:54.241 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:20:06.209 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:20:06.665 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:20:07.929 10.4.9.186 - branch_request - No request to follow up - undefined
+INFO 2023-03-30T09:20:24.951 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:20:25.365 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:20:28.833 10.4.9.186 - branch_request - No request to follow up - undefined
+INFO 2023-03-30T09:21:48.958 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:21:49.350 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:21:51.454 10.4.9.186 - branch_request - No request to follow up - undefined
+INFO 2023-03-30T09:47:56.052 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:47:56.572 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:47:57.452 10.4.9.186 - branch_request - No request to follow up - undefined
+INFO 2023-03-30T09:48:18.703 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:48:19.083 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:48:24.236 10.4.9.186 - branch_request - No request to follow up - undefined
+INFO 2023-03-30T09:49:15.304 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:49:15.826 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:49:18.113 10.4.9.186 - branch_request - No request to follow up - undefined
+INFO 2023-03-30T09:49:59.733 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:50:00.152 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:50:01.809 10.4.9.186 - branch_request - No request to follow up - undefined
+INFO 2023-03-30T09:53:35.288 10.4.9.186 - branch_request - No request to follow up - undefined
+INFO 2023-03-30T09:53:38.752 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:53:39.144 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:54:55.198 10.4.9.186 - branch_request - No request to follow up - undefined
+INFO 2023-03-30T09:57:00.986 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:57:01.409 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:57:02.400 10.4.9.186 - branch_request - No request to follow up - undefined
+INFO 2023-03-30T09:57:46.708 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:57:47.105 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T09:57:53.957 10.4.9.186 - branch_request - No request to follow up - undefined
+INFO 2023-03-30T09:58:40.541 server.js -  Server listening to port: 3000
+INFO 2023-03-30T09:58:40.947 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T10:02:08.446 server.js -  Server listening to port: 3000
+INFO 2023-03-30T10:02:08.847 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T10:03:41.681 server.js -  Server listening to port: 3000
+INFO 2023-03-30T10:03:42.126 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T10:03:56.963 server.js -  Server listening to port: 3000
+INFO 2023-03-30T10:03:57.413 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T10:05:41.276 server.js -  Server listening to port: 3000
+INFO 2023-03-30T10:05:41.652 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T10:06:22.213 server.js -  Server listening to port: 3000
+INFO 2023-03-30T10:06:22.635 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T10:06:25.804 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+INFO 2023-03-30T10:07:32.601 server.js -  Server listening to port: 3000
+INFO 2023-03-30T10:07:32.996 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T10:07:45.590 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+INFO 2023-03-30T10:07:45.591 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+INFO 2023-03-30T10:07:45.591 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+INFO 2023-03-30T10:07:45.591 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T10:07:45.591 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T10:07:45.591 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T10:07:45.591 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T10:07:45.664 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T10:07:45.666 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T10:07:45.666 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T10:07:47.395 mailConfig - setTransporter -  Err - Error: No recipients defined: Follow up error - CA-230318-000046, null
+INFO 2023-03-30T10:07:47.400 mailConfig - setTransporter -  Err - Error: No recipients defined: Follow up error - CA-230313-000024, null
+INFO 2023-03-30T10:07:47.873 mailConfig - setTransporter -  Err - Error: No recipients defined: Follow up error - CA-230313-000023, null
+INFO 2023-03-30T10:08:10.352 server.js -  Server listening to port: 3000
+INFO 2023-03-30T10:08:10.737 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T10:08:12.805 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+INFO 2023-03-30T10:08:12.806 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+INFO 2023-03-30T10:08:12.807 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+INFO 2023-03-30T10:08:12.808 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T10:08:12.826 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T10:08:12.827 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T10:08:12.827 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T10:08:12.854 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T10:08:12.855 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T10:08:12.856 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T10:08:14.484 mailConfig - setTransporter -  Err - Error: No recipients defined: Follow up error - CA-230313-000023, null
+INFO 2023-03-30T10:08:14.954 mailConfig - setTransporter -  Err - Error: No recipients defined: Follow up error - CA-230318-000046, null
+INFO 2023-03-30T10:08:14.968 mailConfig - setTransporter -  Err - Error: No recipients defined: Follow up error - CA-230313-000024, null
+INFO 2023-03-30T10:09:27.554 server.js -  Server listening to port: 3000
+INFO 2023-03-30T10:09:27.938 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T10:09:29.798 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+INFO 2023-03-30T10:09:29.799 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+INFO 2023-03-30T10:09:29.799 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+INFO 2023-03-30T10:09:29.799 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T10:09:29.800 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T10:09:29.800 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T10:09:29.800 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T10:09:29.825 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T10:09:29.827 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T10:09:29.827 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T10:09:31.582 mailConfig - setTransporter -  Err - Error: No recipients defined: Follow up error - CA-230318-000046, null
+INFO 2023-03-30T10:09:31.584 mailConfig - setTransporter -  Err - Error: No recipients defined: Follow up error - CA-230313-000024, null
+INFO 2023-03-30T10:09:32.100 mailConfig - setTransporter -  Err - Error: No recipients defined: Follow up error - CA-230313-000023, null
+INFO 2023-03-30T10:10:22.032 server.js -  Server listening to port: 3000
+INFO 2023-03-30T10:10:22.387 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T10:10:23.388 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+INFO 2023-03-30T10:10:23.389 10.4.9.186 - branch_request - No request to follow up - CA-230313-000023
+INFO 2023-03-30T10:10:23.389 10.4.9.186 - branch_request - No request to follow up - CA-230313-000024
+INFO 2023-03-30T10:10:23.389 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T10:10:23.390 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T10:10:23.390 10.4.9.186 - branch_request - No request to follow up - CA-230318-000046
+INFO 2023-03-30T10:10:23.391 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T10:10:35.559 server.js -  Server listening to port: 3000
+INFO 2023-03-30T10:10:35.979 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T10:10:40.246 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+INFO 2023-03-30T10:10:40.248 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+INFO 2023-03-30T10:10:40.249 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+INFO 2023-03-30T10:10:40.251 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T10:10:40.253 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T10:10:40.254 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T10:10:40.256 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T10:10:40.291 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T10:10:40.293 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T10:10:40.293 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T10:10:42.028 mailConfig - setTransporter -  Err - Error: No recipients defined: Follow up error - CA-230318-000046, null
+INFO 2023-03-30T10:10:42.397 mailConfig - setTransporter -  Err - Error: No recipients defined: Follow up error - CA-230313-000024, null
+INFO 2023-03-30T10:10:42.552 mailConfig - setTransporter -  Err - Error: No recipients defined: Follow up error - CA-230313-000023, null
+INFO 2023-03-30T10:13:01.753 server.js -  Server listening to port: 3000
+INFO 2023-03-30T10:13:02.167 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T10:13:36.291 server.js -  Server listening to port: 3000
+INFO 2023-03-30T10:13:36.708 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T10:14:05.628 server.js -  Server listening to port: 3000
+INFO 2023-03-30T10:14:06.046 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T10:16:40.027 server.js -  Server listening to port: 3000
+INFO 2023-03-30T10:16:40.396 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T10:16:43.433 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+INFO 2023-03-30T10:16:43.433 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+INFO 2023-03-30T10:16:43.434 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+INFO 2023-03-30T10:16:43.434 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T10:16:43.434 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T10:16:43.435 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T10:16:43.435 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T10:16:43.462 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T10:16:43.464 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T10:16:43.464 mailConfig - setTransporter -  nodeTransporter : [object Object]
+ERROR 2023-03-30T10:16:45.188 null Err - Error: No recipients defined: Follow up error - CA-230313-000023, null
+ERROR 2023-03-30T10:16:45.189 null Err - Error: No recipients defined: Follow up error - CA-230313-000024, null
+ERROR 2023-03-30T10:16:45.306 null Err - Error: No recipients defined: Follow up error - CA-230318-000046, null
+INFO 2023-03-30T10:17:23.881 server.js -  Server listening to port: 3000
+INFO 2023-03-30T10:17:24.262 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T10:17:58.654 server.js -  Server listening to port: 3000
+INFO 2023-03-30T10:17:59.072 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T14:03:37.812 server.js -  Server listening to port: 3000
+FATAL 2023-03-30T14:03:37.816 10.4.9.186 - branch_request - Branch Connection Failed. Error: connect ETIMEDOUT
+INFO 2023-03-30T14:54:30.669 server.js -  Server listening to port: 3000
+INFO 2023-03-30T14:54:31.330 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T14:56:23.105 server.js -  Server listening to port: 3000
+INFO 2023-03-30T14:56:23.527 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T14:56:33.930 server.js -  Server listening to port: 3000
+INFO 2023-03-30T14:56:34.373 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T14:56:51.474 server.js -  Server listening to port: 3000
+INFO 2023-03-30T14:56:51.902 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T14:57:19.616 server.js -  Server listening to port: 3000
+INFO 2023-03-30T14:57:20.020 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T14:58:00.597 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T14:58:00.644 null Err - ReferenceError: res is not defined: Follow up error
+INFO 2023-03-30T14:58:19.335 server.js -  Server listening to port: 3000
+INFO 2023-03-30T14:58:19.733 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T14:59:00.582 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T14:59:00.624 null Err - ReferenceError: err is not defined: Follow up error
+INFO 2023-03-30T14:59:39.810 server.js -  Server listening to port: 3000
+INFO 2023-03-30T14:59:40.220 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:00:00.680 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:00:00.727 null Err - ReferenceError: err is not defined: Follow up error
+INFO 2023-03-30T15:00:00.681 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+INFO 2023-03-30T15:00:00.682 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+INFO 2023-03-30T15:00:00.682 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:00:00.682 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:00:00.683 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:00:00.683 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:00:00.717 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:00:00.718 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:00:00.719 mailConfig - setTransporter -  nodeTransporter : [object Object]
+ERROR 2023-03-30T15:00:02.591 null Err - Error: No recipients defined: Follow up error - CA-230313-000023, null
+ERROR 2023-03-30T15:00:02.842 null Err - Error: No recipients defined: Follow up error - CA-230313-000024, null
+ERROR 2023-03-30T15:00:02.848 null Err - Error: No recipients defined: Follow up error - CA-230318-000046, null
+INFO 2023-03-30T15:00:47.521 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:00:47.921 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:01:00.573 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:01:00.618 null Err - ReferenceError: element is not defined: Follow up error
+INFO 2023-03-30T15:01:00.573 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+INFO 2023-03-30T15:01:00.574 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+INFO 2023-03-30T15:01:00.574 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:01:00.574 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:01:00.574 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:01:00.574 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:01:00.602 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:01:00.605 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:01:00.606 mailConfig - setTransporter -  nodeTransporter : [object Object]
+ERROR 2023-03-30T15:01:02.123 null Err - Error: No recipients defined: Follow up error - CA-230318-000046, null
+ERROR 2023-03-30T15:01:02.244 null Err - Error: No recipients defined: Follow up error - CA-230313-000023, null
+ERROR 2023-03-30T15:01:02.299 null Err - Error: No recipients defined: Follow up error - CA-230313-000024, null
+INFO 2023-03-30T15:02:00.201 mailConfig - setTransporter -  No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:02:00.205 null Err - ReferenceError: element is not defined: Follow up error
+INFO 2023-03-30T15:02:00.201 mailConfig - setTransporter -  Request to follow up - CA-230313-000023
+INFO 2023-03-30T15:02:00.201 mailConfig - setTransporter -  Request to follow up - CA-230313-000024
+INFO 2023-03-30T15:02:00.201 mailConfig - setTransporter -  No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:02:00.201 mailConfig - setTransporter -  No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:02:00.201 mailConfig - setTransporter -  Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:02:00.201 mailConfig - setTransporter -  No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:02:00.202 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:02:00.203 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:02:00.203 mailConfig - setTransporter -  nodeTransporter : [object Object]
+ERROR 2023-03-30T15:02:01.673 null Err - Error: No recipients defined: Follow up error - CA-230313-000024, null
+ERROR 2023-03-30T15:02:01.825 null Err - Error: No recipients defined: Follow up error - CA-230313-000023, null
+ERROR 2023-03-30T15:02:02.056 null Err - Error: No recipients defined: Follow up error - CA-230318-000046, null
+INFO 2023-03-30T15:02:13.653 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:02:14.070 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:03:00.556 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:03:00.577 null Success - : Successfull email follow up - [object Object],[object Object],[object Object], [object Object],[object Object],[object Object]
+INFO 2023-03-30T15:03:00.556 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+INFO 2023-03-30T15:03:00.556 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+INFO 2023-03-30T15:03:00.556 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:03:00.556 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:03:00.556 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:03:00.557 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:03:00.575 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:03:00.577 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:03:00.577 mailConfig - setTransporter -  nodeTransporter : [object Object]
+ERROR 2023-03-30T15:03:02.061 null Err - Error: No recipients defined: Follow up error - CA-230318-000046, null
+ERROR 2023-03-30T15:03:02.064 null Err - Error: No recipients defined: Follow up error - CA-230313-000024, null
+ERROR 2023-03-30T15:03:02.091 null Err - Error: No recipients defined: Follow up error - CA-230313-000023, null
+INFO 2023-03-30T15:06:00.130 mailConfig - setTransporter -  No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:06:00.133 null Success - : Successfull email follow up - [object Object],[object Object],[object Object], [object Object],[object Object],[object Object]
+INFO 2023-03-30T15:06:00.130 mailConfig - setTransporter -  Request to follow up - CA-230313-000023
+INFO 2023-03-30T15:06:00.130 mailConfig - setTransporter -  Request to follow up - CA-230313-000024
+INFO 2023-03-30T15:06:00.130 mailConfig - setTransporter -  No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:06:00.130 mailConfig - setTransporter -  No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:06:00.130 mailConfig - setTransporter -  Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:06:00.130 mailConfig - setTransporter -  No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:06:00.131 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:06:00.131 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:06:00.132 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:06:11.819 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:06:12.372 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:06:56.573 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:06:56.979 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:07:00.692 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:07:01.083 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:08:00.561 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:08:00.636 null Success - : Successfull email follow up - [object Object],[object Object],[object Object], [object Object],[object Object],[object Object]
+INFO 2023-03-30T15:08:00.562 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+INFO 2023-03-30T15:08:00.562 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+INFO 2023-03-30T15:08:00.562 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:08:00.562 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:08:00.562 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:08:00.562 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:08:00.634 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:08:00.635 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:08:00.636 mailConfig - setTransporter -  nodeTransporter : [object Object]
+ERROR 2023-03-30T15:08:02.285 null ERR - Error: No recipients defined: Follow up error - CA-230318-000046, null
+ERROR 2023-03-30T15:08:02.400 null ERR - Error: No recipients defined: Follow up error - CA-230313-000023, null
+ERROR 2023-03-30T15:08:02.679 null ERR - Error: No recipients defined: Follow up error - CA-230313-000024, null
+INFO 2023-03-30T15:09:00.193 mailConfig - setTransporter -  No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:09:00.196 null Success - : Successfull email follow up - [object Object],[object Object],[object Object], [object Object],[object Object],[object Object]
+INFO 2023-03-30T15:09:00.193 mailConfig - setTransporter -  Request to follow up - CA-230313-000023
+INFO 2023-03-30T15:09:00.193 mailConfig - setTransporter -  Request to follow up - CA-230313-000024
+INFO 2023-03-30T15:09:00.193 mailConfig - setTransporter -  No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:09:00.193 mailConfig - setTransporter -  No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:09:00.193 mailConfig - setTransporter -  Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:09:00.193 mailConfig - setTransporter -  No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:09:00.194 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:09:00.195 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:09:00.196 mailConfig - setTransporter -  nodeTransporter : [object Object]
+ERROR 2023-03-30T15:09:01.537 null ERR - Error: No recipients defined: Follow up error - CA-230313-000023, null
+ERROR 2023-03-30T15:09:01.568 null ERR - Error: No recipients defined: Follow up error - CA-230318-000046, null
+ERROR 2023-03-30T15:09:01.647 null ERR - Error: No recipients defined: Follow up error - CA-230313-000024, null
+INFO 2023-03-30T15:10:00.197 mailConfig - setTransporter -  No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:10:00.202 null Success - : Successfull email follow up - [object Object],[object Object],[object Object], [object Object],[object Object],[object Object]
+INFO 2023-03-30T15:10:00.197 mailConfig - setTransporter -  Request to follow up - CA-230313-000023
+INFO 2023-03-30T15:10:00.198 mailConfig - setTransporter -  Request to follow up - CA-230313-000024
+INFO 2023-03-30T15:10:00.198 mailConfig - setTransporter -  No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:10:00.198 mailConfig - setTransporter -  No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:10:00.198 mailConfig - setTransporter -  Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:10:00.198 mailConfig - setTransporter -  No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:10:00.199 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:10:00.200 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:10:00.201 mailConfig - setTransporter -  nodeTransporter : [object Object]
+ERROR 2023-03-30T15:10:01.556 null ERR - Error: No recipients defined: Follow up error - CA-230313-000024, null
+ERROR 2023-03-30T15:10:02.046 null ERR - Error: No recipients defined: Follow up error - CA-230313-000023, null
+ERROR 2023-03-30T15:10:02.165 null ERR - Error: No recipients defined: Follow up error - CA-230318-000046, null
+INFO 2023-03-30T15:11:00.217 mailConfig - setTransporter -  No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:11:00.222 null Success - : Successfull email follow up - [object Object],[object Object],[object Object], [object Object],[object Object],[object Object]
+INFO 2023-03-30T15:11:00.218 mailConfig - setTransporter -  Request to follow up - CA-230313-000023
+INFO 2023-03-30T15:11:00.218 mailConfig - setTransporter -  Request to follow up - CA-230313-000024
+INFO 2023-03-30T15:11:00.219 mailConfig - setTransporter -  No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:11:00.219 mailConfig - setTransporter -  No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:11:00.219 mailConfig - setTransporter -  Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:11:00.219 mailConfig - setTransporter -  No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:11:00.220 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:11:00.221 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:11:00.222 mailConfig - setTransporter -  nodeTransporter : [object Object]
+ERROR 2023-03-30T15:11:01.635 null ERR - Error: No recipients defined: Follow up error - CA-230318-000046, null
+ERROR 2023-03-30T15:11:02.087 null ERR - Error: No recipients defined: Follow up error - CA-230313-000023, null
+ERROR 2023-03-30T15:11:02.144 null ERR - Error: No recipients defined: Follow up error - CA-230313-000024, null
+INFO 2023-03-30T15:12:00.205 mailConfig - setTransporter -  No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:12:00.208 null Success - : Successfull email follow up - [object Object],[object Object],[object Object], [object Object],[object Object],[object Object]
+INFO 2023-03-30T15:12:00.205 mailConfig - setTransporter -  Request to follow up - CA-230313-000023
+INFO 2023-03-30T15:12:00.205 mailConfig - setTransporter -  Request to follow up - CA-230313-000024
+INFO 2023-03-30T15:12:00.205 mailConfig - setTransporter -  No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:12:00.206 mailConfig - setTransporter -  No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:12:00.206 mailConfig - setTransporter -  Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:12:00.206 mailConfig - setTransporter -  No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:12:00.206 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:12:00.207 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:12:00.208 mailConfig - setTransporter -  nodeTransporter : [object Object]
+ERROR 2023-03-30T15:12:01.685 null ERR - Error: No recipients defined: Follow up error - CA-230318-000046, null
+ERROR 2023-03-30T15:12:01.727 null ERR - Error: No recipients defined: Follow up error - CA-230313-000024, null
+ERROR 2023-03-30T15:12:02.173 null ERR - Error: No recipients defined: Follow up error - CA-230313-000023, null
+INFO 2023-03-30T15:12:35.477 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:12:35.977 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:13:00.535 10.4.9.186 - branch_request - Request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:13:00.557 null Success - : Successfull email follow up - [object Object],[object Object],[object Object], [object Object],[object Object],[object Object]
+INFO 2023-03-30T15:13:00.536 10.4.9.186 - branch_request - No request to follow up - CA-230313-000023
+INFO 2023-03-30T15:13:00.536 10.4.9.186 - branch_request - No request to follow up - CA-230313-000024
+INFO 2023-03-30T15:13:00.536 10.4.9.186 - branch_request - Request to follow up - CA-230315-000038
+INFO 2023-03-30T15:13:00.536 10.4.9.186 - branch_request - Request to follow up - CA-230318-000045
+INFO 2023-03-30T15:13:00.536 10.4.9.186 - branch_request - No request to follow up - CA-230318-000046
+INFO 2023-03-30T15:13:00.536 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:13:00.554 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:13:00.556 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:13:00.556 mailConfig - setTransporter -  nodeTransporter : [object Object]
+ERROR 2023-03-30T15:13:02.090 null ERR - Error: No recipients defined: Follow up error - CA-230315-000038, null
+ERROR 2023-03-30T15:13:02.330 null ERR - Error: No recipients defined: Follow up error - CA-230318-000045, null
+ERROR 2023-03-30T15:13:02.590 null ERR - Error: No recipients defined: Follow up error - CA-230313-000021, null
+INFO 2023-03-30T15:13:50.078 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:13:50.530 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:14:05.556 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:14:05.601 null Success - : Successfull email follow up - [object Object],[object Object],[object Object], [object Object],[object Object],[object Object]
+INFO 2023-03-30T15:14:05.557 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+INFO 2023-03-30T15:14:05.558 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+INFO 2023-03-30T15:14:05.558 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:14:05.558 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:14:05.558 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:14:05.558 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:14:05.598 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:14:05.600 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:14:05.601 mailConfig - setTransporter -  nodeTransporter : [object Object]
+ERROR 2023-03-30T15:14:07.103 null ERR - Error: No recipients defined: Follow up error - CA-230318-000046, null
+ERROR 2023-03-30T15:14:07.613 null ERR - Error: No recipients defined: Follow up error - CA-230313-000023, null
+ERROR 2023-03-30T15:14:07.929 null ERR - Error: No recipients defined: Follow up error - CA-230313-000024, null
+INFO 2023-03-30T15:15:47.723 mailConfig - setTransporter -  No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:15:47.725 null Success - : Successfull email follow up - [object Object],[object Object],[object Object], [object Object],[object Object],[object Object]
+INFO 2023-03-30T15:15:47.723 mailConfig - setTransporter -  Request to follow up - CA-230313-000023
+INFO 2023-03-30T15:15:47.723 mailConfig - setTransporter -  Request to follow up - CA-230313-000024
+INFO 2023-03-30T15:15:47.723 mailConfig - setTransporter -  No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:15:47.723 mailConfig - setTransporter -  No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:15:47.723 mailConfig - setTransporter -  Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:15:47.723 mailConfig - setTransporter -  No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:15:47.724 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:15:47.724 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:15:47.725 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:15:50.870 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:15:51.322 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:16:05.573 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:16:05.597 null Success - : Successfull email follow up - [object Object],[object Object],[object Object], [object Object],[object Object],[object Object]
+INFO 2023-03-30T15:16:05.573 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+INFO 2023-03-30T15:16:05.573 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+INFO 2023-03-30T15:16:05.574 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:16:05.574 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:16:05.574 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:16:05.574 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:16:05.593 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:16:05.595 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:16:05.597 mailConfig - setTransporter -  nodeTransporter : [object Object]
+ERROR 2023-03-30T15:16:07.079 null ERR - Error: No recipients defined: Follow up error - CA-230313-000023, null
+ERROR 2023-03-30T15:16:07.486 null ERR - Error: No recipients defined: Follow up error - CA-230313-000024, null
+ERROR 2023-03-30T15:16:07.493 null ERR - Error: No recipients defined: Follow up error - CA-230318-000046, null
+INFO 2023-03-30T15:16:42.744 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:16:43.153 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:17:05.550 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:17:05.587 null Success - : Successfull email follow up - [object Object],[object Object],[object Object], [object Object],[object Object],[object Object]
+INFO 2023-03-30T15:17:05.550 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+INFO 2023-03-30T15:17:05.551 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+INFO 2023-03-30T15:17:05.551 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:17:05.551 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:17:05.551 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:17:05.551 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:17:05.580 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:17:05.584 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:17:05.587 mailConfig - setTransporter -  nodeTransporter : [object Object]
+ERROR 2023-03-30T15:17:07.644 null ERR - Error: No recipients defined: Follow up error - CA-230313-000023, null
+ERROR 2023-03-30T15:17:07.732 null ERR - Error: No recipients defined: Follow up error - CA-230318-000046, null
+ERROR 2023-03-30T15:17:08.052 null ERR - Error: No recipients defined: Follow up error - CA-230313-000024, null
+INFO 2023-03-30T15:17:40.954 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:17:41.376 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:18:05.555 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:18:05.560 null NULL EMAIL - : No request to follow up - CA-230313-000023, null
+INFO 2023-03-30T15:18:05.556 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+ERROR 2023-03-30T15:18:05.561 null NULL EMAIL - : No request to follow up - CA-230313-000024, null
+INFO 2023-03-30T15:18:05.557 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+ERROR 2023-03-30T15:18:05.562 null NULL EMAIL - : No request to follow up - CA-230318-000046, null
+INFO 2023-03-30T15:18:05.557 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+ERROR 2023-03-30T15:18:05.562 null Success - : Successfull email follow up - [object Object],[object Object],[object Object], [object Object],[object Object],[object Object]
+INFO 2023-03-30T15:18:05.557 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:18:05.558 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:18:05.558 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:19:05.200 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:19:05.203 null NULL EMAIL - : No request to follow up - CA-230313-000023, null
+INFO 2023-03-30T15:19:05.201 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+ERROR 2023-03-30T15:19:05.208 null NULL EMAIL - : No request to follow up - CA-230313-000024, null
+INFO 2023-03-30T15:19:05.201 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+ERROR 2023-03-30T15:19:05.212 null NULL EMAIL - : No request to follow up - CA-230318-000046, null
+INFO 2023-03-30T15:19:05.201 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+ERROR 2023-03-30T15:19:05.212 null Success - : Successfull email follow up - [object Object],[object Object],[object Object], [object Object],[object Object],[object Object]
+INFO 2023-03-30T15:19:05.202 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:19:05.202 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:19:05.202 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:19:24.141 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:19:24.592 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:20:05.577 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:20:05.579 null NULL EMAIL - : No request to follow up - CA-230313-000023, null
+INFO 2023-03-30T15:20:05.578 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+ERROR 2023-03-30T15:20:05.579 null NULL EMAIL - : No request to follow up - CA-230313-000024, null
+INFO 2023-03-30T15:20:05.578 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+ERROR 2023-03-30T15:20:05.580 null NULL EMAIL - : No request to follow up - CA-230318-000046, null
+INFO 2023-03-30T15:20:05.578 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:20:05.578 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:20:05.578 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:20:05.578 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:20:29.896 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:20:30.307 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:20:39.200 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:20:39.595 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:21:05.593 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:21:05.595 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:21:05.593 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+ERROR 2023-03-30T15:21:05.595 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:21:05.593 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+ERROR 2023-03-30T15:21:05.595 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:21:05.593 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:21:05.593 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:21:05.593 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:21:05.594 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:21:56.477 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:21:56.875 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:22:05.584 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:22:05.587 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:22:05.584 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+ERROR 2023-03-30T15:22:05.588 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:22:05.584 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+ERROR 2023-03-30T15:22:05.590 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:22:05.584 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:22:05.584 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:22:05.584 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:22:05.584 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:23:05.224 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:23:05.230 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:23:05.225 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+ERROR 2023-03-30T15:23:05.233 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:23:05.225 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+ERROR 2023-03-30T15:23:05.235 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:23:05.226 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:23:05.226 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:23:05.226 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:23:05.226 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:23:10.599 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:23:11.347 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:24:05.605 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:24:05.608 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:24:05.606 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+ERROR 2023-03-30T15:24:05.610 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:24:05.606 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+ERROR 2023-03-30T15:24:05.611 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:24:05.607 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:24:05.607 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:24:05.607 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:24:05.608 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:25:05.286 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:25:05.294 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:25:05.288 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+ERROR 2023-03-30T15:25:05.297 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:25:05.289 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+ERROR 2023-03-30T15:25:05.299 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:25:05.290 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:25:05.291 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:25:05.292 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:25:05.292 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:26:05.244 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:26:05.250 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:26:05.246 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+ERROR 2023-03-30T15:26:05.251 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:26:05.247 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+ERROR 2023-03-30T15:26:05.253 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:26:05.247 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:26:05.248 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:26:05.249 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:26:05.249 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:27:05.216 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:27:05.234 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:27:05.218 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+ERROR 2023-03-30T15:27:05.238 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:27:05.220 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+ERROR 2023-03-30T15:27:05.241 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:27:05.222 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:27:05.224 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:27:05.226 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:27:05.228 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:28:05.207 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:28:05.212 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:28:05.209 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+ERROR 2023-03-30T15:28:05.213 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:28:05.210 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+ERROR 2023-03-30T15:28:05.214 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:28:05.210 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:28:05.210 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:28:05.211 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:28:05.211 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:29:05.226 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:29:05.232 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:29:05.226 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+ERROR 2023-03-30T15:29:05.233 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:29:05.227 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+ERROR 2023-03-30T15:29:05.234 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:29:05.228 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:29:05.229 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:29:05.230 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:29:05.231 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:30:05.202 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:30:05.208 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:30:05.204 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+ERROR 2023-03-30T15:30:05.209 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:30:05.205 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+ERROR 2023-03-30T15:30:05.210 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:30:05.206 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:30:05.206 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:30:05.207 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:30:05.208 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:30:21.802 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:30:22.189 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:30:41.151 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:30:41.569 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:31:05.574 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:31:05.583 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:31:05.575 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+ERROR 2023-03-30T15:31:05.584 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:31:05.576 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+ERROR 2023-03-30T15:31:05.585 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:31:05.579 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:31:05.581 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:31:05.581 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:31:05.582 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:31:29.632 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:31:30.024 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:32:05.589 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:32:05.598 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:32:05.592 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+ERROR 2023-03-30T15:32:05.599 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:32:05.593 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+ERROR 2023-03-30T15:32:05.600 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:32:05.594 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:32:05.595 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:32:05.596 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:32:05.597 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:32:10.738 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:32:11.123 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:33:05.588 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:33:05.606 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:33:05.590 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+ERROR 2023-03-30T15:33:05.607 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:33:05.591 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+ERROR 2023-03-30T15:33:05.607 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:33:05.593 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:33:05.597 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:33:05.599 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:33:05.605 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:34:05.235 10.4.9.186 - branch_request - No request to follow up - CA-230313-000021
+ERROR 2023-03-30T15:34:05.242 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:34:05.237 10.4.9.186 - branch_request - Request to follow up - CA-230313-000023
+ERROR 2023-03-30T15:34:05.242 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:34:05.238 10.4.9.186 - branch_request - Request to follow up - CA-230313-000024
+ERROR 2023-03-30T15:34:05.242 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:34:05.239 10.4.9.186 - branch_request - No request to follow up - CA-230315-000038
+INFO 2023-03-30T15:34:05.240 10.4.9.186 - branch_request - No request to follow up - CA-230318-000045
+INFO 2023-03-30T15:34:05.240 10.4.9.186 - branch_request - Request to follow up - CA-230318-000046
+INFO 2023-03-30T15:34:05.241 10.4.9.186 - branch_request - No request to follow up - CA-230329-000049
+INFO 2023-03-30T15:34:14.736 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:34:15.202 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:34:51.405 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:34:51.784 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:35:05.567 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230313-000021, Duration: 12
+ERROR 2023-03-30T15:35:05.586 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:35:05.569 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230313-000023, Duration: 11
+ERROR 2023-03-30T15:35:05.586 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:35:05.573 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230313-000024, Duration: 11
+ERROR 2023-03-30T15:35:05.586 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:35:05.577 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230315-000038, Duration: 12
+INFO 2023-03-30T15:35:05.581 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230318-000045, Duration: 12
+INFO 2023-03-30T15:35:05.583 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230318-000046, Duration: 11
+INFO 2023-03-30T15:35:05.585 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230329-000049, Duration: 1
+INFO 2023-03-30T15:36:05.208 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230313-000021, Duration: 12
+ERROR 2023-03-30T15:36:05.222 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:36:05.211 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230313-000023, Duration: 11
+ERROR 2023-03-30T15:36:05.222 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:36:05.213 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230313-000024, Duration: 11
+ERROR 2023-03-30T15:36:05.222 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:36:05.215 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230315-000038, Duration: 12
+INFO 2023-03-30T15:36:05.217 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230318-000045, Duration: 12
+INFO 2023-03-30T15:36:05.219 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230318-000046, Duration: 11
+INFO 2023-03-30T15:36:05.221 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230329-000049, Duration: 1
+INFO 2023-03-30T15:37:05.209 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230313-000021, Duration: 12
+ERROR 2023-03-30T15:37:05.218 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:37:05.212 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230313-000023, Duration: 11
+ERROR 2023-03-30T15:37:05.218 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:37:05.213 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230313-000024, Duration: 11
+ERROR 2023-03-30T15:37:05.218 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:37:05.214 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230315-000038, Duration: 12
+INFO 2023-03-30T15:37:05.215 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230318-000045, Duration: 12
+INFO 2023-03-30T15:37:05.217 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230318-000046, Duration: 11
+INFO 2023-03-30T15:37:05.218 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230329-000049, Duration: 1
+INFO 2023-03-30T15:38:04.051 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:38:04.481 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:38:05.553 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230313-000021, Duration: 12
+ERROR 2023-03-30T15:38:05.566 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:38:05.556 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230313-000023, Duration: 11
+ERROR 2023-03-30T15:38:05.566 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:38:05.558 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230313-000024, Duration: 11
+ERROR 2023-03-30T15:38:05.566 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:38:05.560 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230315-000038, Duration: 12
+INFO 2023-03-30T15:38:05.562 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230318-000045, Duration: 12
+INFO 2023-03-30T15:38:05.564 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230318-000046, Duration: 11
+INFO 2023-03-30T15:38:05.565 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230329-000049, Duration: 1
+ERROR 2023-03-30T15:39:05.214 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:39:05.195 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230313-000021, Duration: 12
+ERROR 2023-03-30T15:39:05.214 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:39:05.197 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230313-000023, Duration: 11
+ERROR 2023-03-30T15:39:05.215 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:39:05.198 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230313-000024, Duration: 11
+INFO 2023-03-30T15:39:05.200 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230315-000038, Duration: 12
+INFO 2023-03-30T15:39:05.203 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230318-000045, Duration: 12
+INFO 2023-03-30T15:39:05.207 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230318-000046, Duration: 11
+INFO 2023-03-30T15:39:05.214 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230329-000049, Duration: 1
+INFO 2023-03-30T15:40:05.263 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230313-000021, Duration: 12
+ERROR 2023-03-30T15:40:05.278 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:40:05.269 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230313-000023, Duration: 11
+ERROR 2023-03-30T15:40:05.278 null NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:40:05.273 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230313-000024, Duration: 11
+ERROR 2023-03-30T15:40:05.278 null NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:40:05.275 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230315-000038, Duration: 12
+INFO 2023-03-30T15:40:05.276 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230318-000045, Duration: 12
+INFO 2023-03-30T15:40:05.277 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230318-000046, Duration: 11
+INFO 2023-03-30T15:40:05.277 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230329-000049, Duration: 1
+INFO 2023-03-30T15:40:56.506 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:40:56.912 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:41:05.603 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230313-000021, Duration: 12
+INFO 2023-03-30T15:41:05.604 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230313-000023, Duration: 11
+INFO 2023-03-30T15:41:05.605 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230313-000024, Duration: 11
+INFO 2023-03-30T15:41:05.606 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230315-000038, Duration: 12
+INFO 2023-03-30T15:41:05.606 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230318-000045, Duration: 12
+INFO 2023-03-30T15:41:05.607 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230318-000046, Duration: 11
+INFO 2023-03-30T15:41:05.609 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230329-000049, Duration: 1
+INFO 2023-03-30T15:41:05.609 10.4.9.186 - branch_request - NULL EMAIL - : No request to follow up - Control No: CA-230313-000023, Email: null
+INFO 2023-03-30T15:41:05.609 10.4.9.186 - branch_request - NULL EMAIL - : No request to follow up - Control No: CA-230313-000024, Email: null
+INFO 2023-03-30T15:41:05.609 10.4.9.186 - branch_request - NULL EMAIL - : No request to follow up - Control No: CA-230318-000046, Email: null
+INFO 2023-03-30T15:42:08.314 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:42:08.993 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:42:55.199 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:42:55.602 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:43:05.641 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230313-000021, Duration: 12
+INFO 2023-03-30T15:43:05.644 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230313-000023, Duration: 11
+INFO 2023-03-30T15:43:05.645 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230313-000024, Duration: 11
+INFO 2023-03-30T15:43:05.647 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230315-000038, Duration: 12
+INFO 2023-03-30T15:43:05.651 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230318-000045, Duration: 12
+INFO 2023-03-30T15:43:05.655 10.4.9.186 - branch_request - No request to follow up - Control No: CA-230318-000046, Duration: 11
+INFO 2023-03-30T15:43:05.658 10.4.9.186 - branch_request - Request to follow up - Control No: CA-230329-000049, Duration: 1
+INFO 2023-03-30T15:43:05.693 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:43:09.806 mailConfig - setTransporter -  SUCCESS - Follow up sent - Control No: CA-230329-000049, Email: jonalyn.mobilla@mlhuillier.com
+INFO 2023-03-30T15:44:05.201 mailConfig - setTransporter -  No request to follow up - Control No: CA-230313-000021, Duration: 12
+INFO 2023-03-30T15:44:05.202 mailConfig - setTransporter -  No request to follow up - Control No: CA-230313-000023, Duration: 11
+INFO 2023-03-30T15:44:05.203 mailConfig - setTransporter -  No request to follow up - Control No: CA-230313-000024, Duration: 11
+INFO 2023-03-30T15:44:05.203 mailConfig - setTransporter -  No request to follow up - Control No: CA-230315-000038, Duration: 12
+INFO 2023-03-30T15:44:05.204 mailConfig - setTransporter -  No request to follow up - Control No: CA-230318-000045, Duration: 12
+INFO 2023-03-30T15:44:05.206 mailConfig - setTransporter -  No request to follow up - Control No: CA-230318-000046, Duration: 11
+INFO 2023-03-30T15:44:05.207 mailConfig - setTransporter -  Request to follow up - Control No: CA-230329-000049, Duration: 1
+INFO 2023-03-30T15:44:05.208 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:44:08.158 mailConfig - setTransporter -  SUCCESS - Follow up sent - Control No: CA-230329-000049, Email: jonalyn.mobilla@mlhuillier.com
+INFO 2023-03-30T15:44:21.399 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDE2MjI2MSwiZXhwIjoxNjgwMTYzMTYxfQ.xNBthm9e7zD1DyYf5mrwHsBSbkM6KpIvyE8SQom2ADU
+FATAL 2023-03-30T15:44:21.409 auth - verifyToken -  Unauthorized. Invalid Token - undefined
+INFO 2023-03-30T15:45:05.207 userLogin No request to follow up - Control No: CA-230313-000021, Duration: 12
+INFO 2023-03-30T15:45:05.207 userLogin No request to follow up - Control No: CA-230313-000023, Duration: 11
+INFO 2023-03-30T15:45:05.208 userLogin No request to follow up - Control No: CA-230313-000024, Duration: 11
+INFO 2023-03-30T15:45:05.209 userLogin No request to follow up - Control No: CA-230315-000038, Duration: 12
+INFO 2023-03-30T15:45:05.209 userLogin No request to follow up - Control No: CA-230318-000045, Duration: 12
+INFO 2023-03-30T15:45:05.210 userLogin No request to follow up - Control No: CA-230318-000046, Duration: 11
+INFO 2023-03-30T15:45:05.212 userLogin Request to follow up - Control No: CA-230329-000049, Duration: 1
+INFO 2023-03-30T15:45:05.214 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:45:07.806 mailConfig - setTransporter -  SUCCESS - Follow up sent - Control No: CA-230329-000049, Email: jonalyn.mobilla@mlhuillier.com
+INFO 2023-03-30T15:45:52.433 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDE2MjM1MiwiZXhwIjoxNjgwMTYzMjUyfQ.i3-bmpZTUxtJUEG52PzEH4qXh4E_vFyALdBFBrRFHG4
+FATAL 2023-03-30T15:45:52.449 auth - verifyToken -  Unauthorized. Invalid Token - undefined
+INFO 2023-03-30T15:46:05.210 userLogin No request to follow up - Control No: CA-230313-000021, Duration: 12
+INFO 2023-03-30T15:46:05.213 userLogin No request to follow up - Control No: CA-230313-000023, Duration: 11
+INFO 2023-03-30T15:46:05.216 userLogin No request to follow up - Control No: CA-230313-000024, Duration: 11
+INFO 2023-03-30T15:46:05.219 userLogin No request to follow up - Control No: CA-230315-000038, Duration: 12
+INFO 2023-03-30T15:46:05.219 userLogin No request to follow up - Control No: CA-230318-000045, Duration: 12
+INFO 2023-03-30T15:46:05.220 userLogin No request to follow up - Control No: CA-230318-000046, Duration: 11
+INFO 2023-03-30T15:46:05.221 userLogin Request to follow up - Control No: CA-230329-000049, Duration: 1
+INFO 2023-03-30T15:46:05.222 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:46:07.700 mailConfig - setTransporter -  SUCCESS - Follow up sent - Control No: CA-230329-000049, Email: jonalyn.mobilla@mlhuillier.com
+INFO 2023-03-30T15:47:05.188 mailConfig - setTransporter -  No request to follow up - Control No: CA-230313-000021, Duration: 12
+INFO 2023-03-30T15:47:05.189 mailConfig - setTransporter -  No request to follow up - Control No: CA-230313-000023, Duration: 11
+INFO 2023-03-30T15:47:05.191 mailConfig - setTransporter -  No request to follow up - Control No: CA-230313-000024, Duration: 11
+INFO 2023-03-30T15:47:05.192 mailConfig - setTransporter -  No request to follow up - Control No: CA-230315-000038, Duration: 12
+INFO 2023-03-30T15:47:05.193 mailConfig - setTransporter -  No request to follow up - Control No: CA-230318-000045, Duration: 12
+INFO 2023-03-30T15:47:05.194 mailConfig - setTransporter -  No request to follow up - Control No: CA-230318-000046, Duration: 11
+INFO 2023-03-30T15:47:05.194 mailConfig - setTransporter -  Request to follow up - Control No: CA-230329-000049, Duration: 1
+INFO 2023-03-30T15:47:05.195 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:47:07.851 mailConfig - setTransporter -  SUCCESS - Follow up sent - Control No: CA-230329-000049, Email: jonalyn.mobilla@mlhuillier.com
+INFO 2023-03-30T15:48:00.880 userLogin Successfully generated a token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDE2MjQ4MCwiZXhwIjoxNjgwMTYzMzgwfQ.lh6TXmxjZsUBa7AncSnnZdOCTN_vQZ7gKEnoFyGZ6Mk
+INFO 2023-03-30T15:48:00.899 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDE2MjQ4MCwiZXhwIjoxNjgwMTYzMzgwfQ.lh6TXmxjZsUBa7AncSnnZdOCTN_vQZ7gKEnoFyGZ6Mk
+INFO 2023-03-30T15:48:01.241 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDE2MjQ4MCwiZXhwIjoxNjgwMTYzMzgwfQ.lh6TXmxjZsUBa7AncSnnZdOCTN_vQZ7gKEnoFyGZ6Mk
+INFO 2023-03-30T15:48:01.244 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDE2MjQ4MCwiZXhwIjoxNjgwMTYzMzgwfQ.lh6TXmxjZsUBa7AncSnnZdOCTN_vQZ7gKEnoFyGZ6Mk
+INFO 2023-03-30T15:48:01.327 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-30T15:48:01.744 getAllRequestsCash Rows Length : 37
+INFO 2023-03-30T15:48:05.222 getAllRequestsCash No request to follow up - Control No: CA-230313-000021, Duration: 12
+INFO 2023-03-30T15:48:05.224 getAllRequestsCash No request to follow up - Control No: CA-230313-000023, Duration: 11
+INFO 2023-03-30T15:48:05.224 getAllRequestsCash No request to follow up - Control No: CA-230313-000024, Duration: 11
+INFO 2023-03-30T15:48:05.225 getAllRequestsCash No request to follow up - Control No: CA-230315-000038, Duration: 12
+INFO 2023-03-30T15:48:05.226 getAllRequestsCash No request to follow up - Control No: CA-230318-000045, Duration: 12
+INFO 2023-03-30T15:48:05.226 getAllRequestsCash No request to follow up - Control No: CA-230318-000046, Duration: 11
+INFO 2023-03-30T15:48:05.227 getAllRequestsCash Request to follow up - Control No: CA-230329-000049, Duration: 1
+INFO 2023-03-30T15:48:05.228 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:48:07.882 mailConfig - setTransporter -  SUCCESS - Follow up sent - Control No: CA-230329-000049, Email: jonalyn.mobilla@mlhuillier.com
+INFO 2023-03-30T15:48:29.620 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDE2MjQ4MCwiZXhwIjoxNjgwMTYzMzgwfQ.lh6TXmxjZsUBa7AncSnnZdOCTN_vQZ7gKEnoFyGZ6Mk
+INFO 2023-03-30T15:48:29.715 OpenRequestController - getCashRequestByControlNo  responseMesage - Success, responseCode - 0
+INFO 2023-03-30T15:48:35.074 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDE2MjQ4MCwiZXhwIjoxNjgwMTYzMzgwfQ.lh6TXmxjZsUBa7AncSnnZdOCTN_vQZ7gKEnoFyGZ6Mk
+INFO 2023-03-30T15:48:35.075 auth - verifyToken -  Authorized. A token verified - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFCRUw5NDAwOTA5OSIsImlhdCI6MTY4MDE2MjQ4MCwiZXhwIjoxNjgwMTYzMzgwfQ.lh6TXmxjZsUBa7AncSnnZdOCTN_vQZ7gKEnoFyGZ6Mk
+INFO 2023-03-30T15:48:35.173 getAllRequestsRevFund Rows Length : 4
+INFO 2023-03-30T15:48:35.256 getAllRequestsCash Rows Length : 37
+INFO 2023-03-30T15:49:05.181 getAllRequestsCash No request to follow up - Control No: CA-230313-000021, Duration: 12
+INFO 2023-03-30T15:49:05.182 getAllRequestsCash No request to follow up - Control No: CA-230313-000023, Duration: 11
+INFO 2023-03-30T15:49:05.183 getAllRequestsCash No request to follow up - Control No: CA-230313-000024, Duration: 11
+INFO 2023-03-30T15:49:05.183 getAllRequestsCash No request to follow up - Control No: CA-230315-000038, Duration: 12
+INFO 2023-03-30T15:49:05.184 getAllRequestsCash No request to follow up - Control No: CA-230318-000045, Duration: 12
+INFO 2023-03-30T15:49:05.185 getAllRequestsCash No request to follow up - Control No: CA-230318-000046, Duration: 11
+INFO 2023-03-30T15:49:05.185 getAllRequestsCash Request to follow up - Control No: CA-230329-000049, Duration: 1
+INFO 2023-03-30T15:49:05.186 mailConfig - setTransporter -  nodeTransporter : [object Object]
+INFO 2023-03-30T15:49:07.656 mailConfig - setTransporter -  SUCCESS - Follow up sent - Control No: CA-230329-000049, Email: jonalyn.mobilla@mlhuillier.com
+INFO 2023-03-30T15:49:31.576 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:49:31.975 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:49:42.443 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:49:42.844 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:58:27.329 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:58:27.780 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:59:20.705 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:59:21.129 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T15:59:58.547 server.js -  Server listening to port: 3000
+INFO 2023-03-30T15:59:58.975 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:00:23.429 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:00:23.830 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:00:44.809 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:00:45.231 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:03:19.752 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:03:20.137 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:04:22.936 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:04:23.326 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:04:30.381 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:04:31.048 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:05:45.388 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:05:45.914 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:06:18.318 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:06:18.727 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:10:52.307 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:10:52.729 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:11:28.373 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:11:28.760 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:15:22.058 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:15:22.447 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:38:38.427 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:38:38.810 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:40:03.899 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:40:04.281 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:43:48.125 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:43:48.508 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:46:19.615 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:46:19.996 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:47:08.867 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:47:09.304 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:47:29.845 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:47:30.258 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:47:58.776 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:47:59.173 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:48:13.296 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:48:13.703 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:48:20.097 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:48:20.481 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:49:07.132 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:49:07.533 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:52:47.544 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:52:47.919 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:52:59.627 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:53:00.026 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:54:16.879 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:54:17.280 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:55:49.900 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:55:50.318 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:58:27.541 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:58:27.969 10.4.9.186 - branch_request - Branch Connected.
+INFO 2023-03-30T16:58:42.878 server.js -  Server listening to port: 3000
+INFO 2023-03-30T16:58:43.272 10.4.9.186 - branch_request - Branch Connected.
