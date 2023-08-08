@@ -633,7 +633,6 @@ export default {
             this.remarksDialog = true
             this.response = 'approved'
             this.textResponse = 'Approval'
-
         },
         async disapprove() {
             this.remarksDialog = true

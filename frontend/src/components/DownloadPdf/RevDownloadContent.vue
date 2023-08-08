@@ -280,7 +280,6 @@ export default {
     props: ['requestContent', 'approvers'],
     data() {
         return {
-
         }
     },
     computed: {

@@ -101,7 +101,6 @@
                                         <v-text-field dense readonly v-model="data.pendingRf"></v-text-field>
                                     </v-col>
                                 </v-row>
-
                                 <v-row align="baseline" class="mt-0">
                                     <v-col cols="5"><label for="">Cash on hand:</label></v-col>
                                     <v-col cols="7" style="padding-bottom: 0px; padding-top: 0px;">
@@ -146,7 +145,6 @@
                                         <v-text-field dense readonly v-model="data.total"></v-text-field>
                                     </v-col>
                                 </v-row>
-
                             </v-col>
                         </v-row>
                     </v-col>
